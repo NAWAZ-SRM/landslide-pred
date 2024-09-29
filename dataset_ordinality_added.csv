@@ -1,0 +1,1866 @@
+landslide_category,landslide_trigger,landslide_size,longitude,latitude,landslide_region,landslide_trigger_encoded,landslide_category_encoded,landslide_size_encoded,landslide_region_encoded
+landslide,downpour,medium,88.3143,26.8572,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.2788,26.8826,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.527,27.478,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.48214677,25.3098633,Rainfall-Related,12,8,4,12
+landslide,rain,medium,74.3333,33.8778,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,78.7963,30.7666,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.5925,30.7652,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.0685,30.7331,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.4129,31.0188,Rainfall-Related,12,8,4,12
+landslide,rain,medium,79.6367,29.7334,Rainfall-Related,10,8,4,12
+landslide,rain,medium,79.3318,30.4043,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.1029,31.0226,Rainfall-Related,12,8,4,12
+landslide,downpour,large,88.556,27.8385,Rainfall-Related,12,8,5,12
+landslide,downpour,large,88.605,27.6558,Rainfall-Related,12,8,5,12
+landslide,rain,medium,78.3881,30.4954,Rainfall-Related,10,8,4,12
+landslide,rain,medium,78.6695,30.885,Rainfall-Related,10,8,4,12
+landslide,rain,medium,80.417,29.7986,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.5947,10.9628,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.5947,10.9628,Rainfall-Related,12,8,4,12
+mudslide,rain,medium,93.9413,25.7658,Rainfall-Related,10,7,4,12
+mudslide,rain,medium,94.0885,25.7131,Rainfall-Related,10,7,4,12
+landslide,continuous_rain,medium,74.4725,34.1587,Rainfall-Related,11,8,4,12
+landslide,rain,medium,73.8277,15.4014,Rainfall-Related,10,8,4,12
+landslide,rain,medium,75.2565,12.6771,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,80.1327,29.4085,Rainfall-Related,11,8,4,12
+landslide,rain,medium,79.0765,30.4619,Rainfall-Related,10,8,4,12
+landslide,downpour,large,78.3221,30.1281,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,75.203,33.3893,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.2382,33.241,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.009,8.4557,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.1167,25.616,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.9798,31.5639,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.1213,31.0365,Rainfall-Related,12,8,4,12
+mudslide,downpour,small,78.6149,30.819,Rainfall-Related,12,7,3,12
+landslide,downpour,medium,88.255,27.0605,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,94.1351,25.4769,Rainfall-Related,12,7,4,12
+landslide,rain,medium,88.29184021,26.87324244,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,75.7627,33.334,Rainfall-Related,12,8,4,12
+landslide,rain,medium,75.1921061,33.33875958,Rainfall-Related,10,8,4,12
+landslide,downpour,small,73.3747,18.7624,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,75.2373,33.2407,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,93.1645,25.5215,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,75.2845,33.2049,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,75.244,33.2609,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.2181,32.3491,Rainfall-Related,12,8,4,12
+landslide,downpour,very_large,77.4871,34.1416,Rainfall-Related,12,8,6,12
+landslide,downpour,medium,91.2,25.8833,Rainfall-Related,12,8,4,12
+landslide,rain,medium,88.2778,26.885,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,75.0582,32.6987,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,75.3226,34.2952,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.0462,25.3179,Rainfall-Related,12,8,4,12
+landslide,rain,medium,93.4333,24.75,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,94.1078,24.1419,Rainfall-Related,11,8,4,12
+landslide,unknown,medium,94.3619,25.0985,Other,3,8,4,13
+landslide,rain,medium,75.496,34.1601,Rainfall-Related,10,8,4,12
+mudslide,downpour,large,88.28,26.88,Rainfall-Related,12,7,5,12
+landslide,downpour,medium,78.61786282,30.80200029,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.9792,9.6326,Rainfall-Related,12,8,4,12
+rock_fall,monsoon,medium,73.7735,19.3421,Mountainous Regions,9,6,4,8
+landslide,rain,medium,79.2498,30.2835,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,76.8521,31.9671,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.1773,33.3308,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.3162,26.8073,Rainfall-Related,12,8,4,12
+landslide,construction,medium,79.8102,30.6145,Construction and Urban,4,8,4,10
+landslide,unknown,medium,88.6586,27.6163,Other,3,8,4,13
+landslide,unknown,medium,78.8979,22.1337,Other,3,8,4,13
+landslide,downpour,small,73.8976,15.3455,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,72.907,19.0397,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.9312,31.709,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.4525,29.393,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.1947,32.1797,Rainfall-Related,12,8,4,12
+landslide,downpour,small,77.1625,31.1032,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,77.1889,31.9843,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,91.885,25.5728,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,95.0243,26.7223,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,73.927,15.4465,Rainfall-Related,11,8,4,12
+landslide,rain,medium,77.6001,34.5628,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,93.4341,24.7625,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,93.816,27.0987,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,88.6193,27.4459,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,93.028,25.1553,Rainfall-Related,12,8,4,12
+landslide,rain,medium,78.3041,30.2828,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,79.4929,30.7412,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,72.8703,19.069,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,83.6299,19.1497,Rainfall-Related,11,8,3,12
+landslide,rain,medium,75.137,32.8468,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,92.8573,25.1175,Rainfall-Related,12,8,4,12
+mudslide,monsoon,large,80.2565,29.8002,Other,9,7,5,13
+mudslide,downpour,medium,88.5287,27.1761,Rainfall-Related,12,7,4,12
+landslide,rain,medium,75.8275,11.2738,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,92.9296,23.591,Rainfall-Related,12,8,4,12
+rock_fall,rain,medium,78.4358,30.7313,Rainfall-Related,10,6,4,12
+landslide,downpour,medium,78.9829,30.2851,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.3399,30.8987,Rainfall-Related,12,8,4,12
+landslide,rain,medium,88.6069,27.3383,Rainfall-Related,10,8,4,12
+landslide,rain,medium,73.47,18.72,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.444,8.1747,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.6746,31.4711,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.0969,30.904,Rainfall-Related,12,8,4,12
+rock_fall,downpour,medium,77.6377,10.2379,Rainfall-Related,12,6,4,12
+landslide,downpour,medium,74.9499,34.6113,Rainfall-Related,12,8,4,12
+mudslide,continuous_rain,medium,93.5063,24.9829,Rainfall-Related,11,7,4,12
+landslide,construction,medium,73.8164,15.4838,Construction and Urban,4,8,4,10
+landslide,downpour,medium,93.3613,25.5125,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.4403,30.7333,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,77.7559,33.7403,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,78.4517,30.7467,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,88.5575,27.5161,Other,3,8,4,13
+landslide,downpour,medium,94.48265093,25.31006064,Rainfall-Related,12,8,4,12
+landslide,rain,medium,73.5111,19.6699,Rainfall-Related,10,8,4,12
+landslide,downpour,large,77.5528,34.1619,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,77.5063,30.9544,Rainfall-Related,12,8,4,12
+landslide,rain,medium,77.3544,30.6738,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.7755,31.5304,Rainfall-Related,12,8,4,12
+landslide,monsoon,medium,80.3657,29.5659,Other,9,8,4,13
+landslide,downpour,medium,93.5,24.9925,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.1695,30.7198,Rainfall-Related,12,8,4,12
+landslide,rain,medium,77.6092,12.9752,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,95.3429,28.9205,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,74.6163,33.9243,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,93.871,27.6438,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.8403,9.7327,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.251,27.0076,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,79.4552,29.3908,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,93.5935,24.8286,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.2468,32.371,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.0989,27.2298,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,91.8584,25.9703,Other,3,8,4,13
+landslide,downpour,small,74.4838,33.6303,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,76.921,8.4951,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,80.6103,16.5332,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,90.2023,25.5145,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,small,78.037,32.2473,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,79.2191,30.262,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.605,12.6445,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,74.1794,33.7453,Other,3,8,4,13
+landslide,downpour,medium,76.7046,9.8721,Rainfall-Related,12,8,4,12
+other,downpour,medium,77.571,11.683,Rainfall-Related,12,2,4,12
+landslide,downpour,medium,72.9266,19.153,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,74.1623,15.0275,Rainfall-Related,12,7,4,12
+landslide,continuous_rain,medium,73.5097,17.4303,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,small,73.9593,34.6609,Rainfall-Related,11,8,3,12
+landslide,rain,medium,91.88,25.38,Rainfall-Related,10,8,4,12
+landslide,downpour,large,91.7351,26.1548,Rainfall-Related,12,8,5,12
+landslide,rain,medium,76.83270934,34.93977198,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,74.0225,34.0876,Rainfall-Related,12,8,4,12
+landslide,rain,medium,75.24528226,33.23738085,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,92.967,22.479,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.3755,30.2258,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.6628,29.6095,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.63411246,27.15977181,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,77.5666,10.3448,Other,3,8,4,13
+landslide,downpour,medium,79.5322,30.9013,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,78.9,30.241,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,96.1779,27.8965,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,75.1447,32.9262,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,94.1099,25.6682,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,93.9815,24.004,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,78.1514,29.9531,Rainfall-Related,12,8,4,12
+landslide,downpour,large,88.2579,27.2879,Rainfall-Related,12,8,5,12
+debris_flow,downpour,medium,78.3911,30.4542,Rainfall-Related,12,5,4,12
+landslide,downpour,medium,92.9914,25.5242,Rainfall-Related,12,8,4,12
+landslide,snowfall_snowmelt,medium,75.2966,33.0809,Snow and Ice,6,8,4,9
+landslide,continuous_rain,medium,75.5807,32.4298,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,74.9402,33.0097,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.1127,30.506,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.0934,33.775,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,93.9157,24.6869,Rainfall-Related,12,8,4,12
+landslide,rain,medium,75.231,33.242,Rainfall-Related,10,8,4,12
+landslide,rain,large,80.2167,29.5833,Rainfall-Related,10,8,5,12
+landslide,downpour,medium,75.8062,33.1847,Rainfall-Related,12,8,4,12
+mudslide,rain,medium,96.174,27.9032,Rainfall-Related,10,7,4,12
+landslide,unknown,small,80.6024,16.5172,Other,3,8,3,13
+landslide,rain,medium,94.1079,25.4191,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,75.7964,33.1457,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,74.9845,33.9513,Rainfall-Related,12,8,4,12
+landslide,unknown,small,74.8678,12.8041,Other,3,8,3,13
+landslide,downpour,medium,77.0969,30.9044,Rainfall-Related,12,8,4,12
+landslide,rain,medium,88.4308,27.0713,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.1788,32.17,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,76.1206,32.5606,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,94.9921,26.8716,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.7241,31.1628,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,91.8744337,26.09748244,Other,3,8,4,13
+mudslide,downpour,medium,92.35,27.4,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,88.7334,27.3702,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,88.47,26.89,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,78.6437,30.7221,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,79.5765,30.5631,Rainfall-Related,11,8,3,12
+landslide,downpour,small,94.3429,24.3527,Rainfall-Related,12,8,3,12
+landslide,unknown,medium,94.7499,26.0977,Other,3,8,4,13
+landslide,downpour,medium,88.43849551,27.02459801,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.3641,32.2067,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.071,32.2278,Rainfall-Related,12,8,4,12
+mudslide,rain,medium,88.2789,26.8905,Rainfall-Related,10,7,4,12
+landslide,unknown,small,88.4553,26.9282,Other,3,8,3,13
+landslide,continuous_rain,medium,80.2386,30.0712,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,78.6185,30.8203,Rainfall-Related,11,8,4,12
+landslide,rain,medium,88.2548,27.0096,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,small,73.4703,18.7833,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,76.3037,32.2322,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.4445,26.9435,Rainfall-Related,12,8,4,12
+landslide,rain,small,88.4089,26.7324,Rainfall-Related,10,8,3,12
+landslide,continuous_rain,small,76.9297,31.7085,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,88.1704,26.8861,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,75.1466,33.0677,Rainfall-Related,12,7,4,12
+landslide,construction,medium,73.5036,19.678,Construction and Urban,4,8,4,10
+landslide,downpour,medium,96.5242,28.0791,Rainfall-Related,12,8,4,12
+complex,monsoon,medium,77.12,31.0,Other,9,4,4,13
+landslide,continuous_rain,small,74.4203,34.0604,Rainfall-Related,11,8,3,12
+landslide,rain,medium,73.1703,20.5349,Rainfall-Related,10,8,4,12
+landslide,rain,medium,78.1123,30.1665,Rainfall-Related,10,8,4,12
+rock_fall,continuous_rain,small,73.347,18.7631,Rainfall-Related,11,6,3,12
+landslide,downpour,small,88.6083,27.3341,Rainfall-Related,12,8,3,12
+landslide,continuous_rain,medium,94.5466,26.0319,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,74.0967,33.7705,Rainfall-Related,12,8,4,12
+landslide,rain,medium,76.3194,32.1967,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,72.7169,24.5958,Rainfall-Related,12,8,4,12
+landslide,rain,medium,79.1492,18.431,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,76.826,34.1491,Rainfall-Related,12,8,4,12
+debris_flow,downpour,medium,78.0973,30.4554,Rainfall-Related,12,5,4,12
+landslide,rain,medium,88.4808,27.0765,Rainfall-Related,10,8,4,12
+landslide,unknown,small,93.7706,27.1249,Other,3,8,3,13
+landslide,continuous_rain,unknown,94.2442,26.1677,Rainfall-Related,11,8,2,12
+landslide,downpour,medium,73.9667,15.949,Rainfall-Related,12,8,4,12
+landslide,downpour,large,95.8011,27.174,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,80.6055,16.5141,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,95.86,28.4659,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.8735,12.896,Rainfall-Related,12,8,4,12
+landslide,rain,medium,78.2741,30.4783,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,79.0478,30.688,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.5306,30.6463,Rainfall-Related,12,8,4,12
+landslide,rain,medium,76.2728,12.9711,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,93.4221,24.7505,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,94.0489,25.4477,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,76.803,9.7285,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,94.5808,26.284,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,93.4093,25.0672,Rainfall-Related,12,8,4,12
+landslide,rain,medium,78.5017,30.3797,Rainfall-Related,10,8,4,12
+landslide,rain,medium,75.72,25.08,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,94.1016,24.1988,Rainfall-Related,11,8,4,12
+landslide,monsoon,medium,76.3075,32.1764,Other,9,8,4,13
+landslide,downpour,large,79.0544,30.6945,Rainfall-Related,12,8,5,12
+landslide,rain,medium,77.3913,31.0766,Rainfall-Related,10,8,4,12
+rock_fall,monsoon,large,78.1181,31.5124,Mountainous Regions,9,6,5,8
+landslide,downpour,medium,76.6939,11.4098,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,91.7351,26.149,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,75.0922,32.9411,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,75.5227,32.3682,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,73.0207,19.1711,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.5959,11.3192,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.9517,8.4863,Rainfall-Related,12,8,4,12
+landslide,downpour,large,94.25,27.8776,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,77.1792,30.9546,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.8586,12.8157,Rainfall-Related,12,8,4,12
+landslide,downpour,large,91.7356,26.1475,Rainfall-Related,12,8,5,12
+mudslide,continuous_rain,medium,93.487,24.9037,Rainfall-Related,11,7,4,12
+landslide,continuous_rain,medium,93.9827,25.4538,Rainfall-Related,11,8,4,12
+landslide,downpour,unknown,88.1218,27.1027,Rainfall-Related,12,8,2,12
+landslide,downpour,medium,94.3864,26.1147,Rainfall-Related,12,8,4,12
+landslide,snowfall_snowmelt,medium,75.1827,33.3037,Snow and Ice,6,8,4,9
+landslide,downpour,medium,77.0965,30.9035,Rainfall-Related,12,8,4,12
+landslide,snowfall_snowmelt,medium,75.2006,33.2537,Snow and Ice,6,8,4,9
+landslide,unknown,medium,78.7075,10.8319,Other,3,8,4,13
+landslide,rain,medium,88.6236,27.3425,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,unknown,92.7239,24.5202,Rainfall-Related,11,8,2,12
+landslide,construction,small,76.9592,10.3316,Construction and Urban,4,8,3,10
+landslide,downpour,medium,83.2414,19.316,Rainfall-Related,12,8,4,12
+mudslide,monsoon,medium,93.5142,24.9818,Other,9,7,4,13
+landslide,snowfall_snowmelt,medium,75.8101,33.1804,Snow and Ice,6,8,4,9
+landslide,downpour,medium,88.4441,26.944,Rainfall-Related,12,8,4,12
+mudslide,monsoon,medium,76.8298,10.0539,Other,9,7,4,13
+landslide,downpour,medium,77.1586,32.0996,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,73.02,19.1869,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,75.1915,32.9913,Rainfall-Related,12,8,4,12
+debris_flow,continuous_rain,medium,79.4954,30.7386,Rainfall-Related,11,5,4,12
+landslide,rain,small,76.1147,13.1819,Rainfall-Related,10,8,3,12
+landslide,continuous_rain,medium,78.4375,30.9753,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,79.3628,30.301,Rainfall-Related,12,8,4,12
+mudslide,downpour,large,72.8899,19.0949,Rainfall-Related,12,7,5,12
+landslide,rain,medium,76.9354,11.2993,Rainfall-Related,10,8,4,12
+landslide,rain,small,91.7998,26.1985,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,94.1139,25.6269,Rainfall-Related,12,8,4,12
+landslide,monsoon,medium,76.4319,10.3228,Other,9,8,4,13
+rock_fall,downpour,medium,74.172,21.6989,Rainfall-Related,12,6,4,12
+landslide,downpour,medium,76.9313,31.7077,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,74.6566,33.9344,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,79.5605,30.6594,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.2114,31.4582,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.3737,31.5375,Rainfall-Related,12,8,4,12
+landslide,rain,medium,75.0944,32.5659,Rainfall-Related,10,8,4,12
+landslide,downpour,small,88.4314,26.9974,Rainfall-Related,12,8,3,12
+landslide,rain,medium,77.16,31.1,Rainfall-Related,10,8,4,12
+landslide,unknown,medium,75.3142,33.1206,Other,3,8,4,13
+landslide,rain,small,82.5725,25.4941,Rainfall-Related,10,8,3,12
+landslide,monsoon,medium,76.6331,10.0606,Other,9,8,4,13
+landslide,downpour,medium,78.3475,30.6785,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,80.126,29.36,Rainfall-Related,12,8,4,12
+landslide,rain,medium,94.9275,26.8727,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,93.7273,27.0011,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.7463,23.7327,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.9006,9.8012,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.6624,14.0354,Rainfall-Related,12,8,4,12
+landslide,unknown,small,74.3524,34.209,Other,3,8,3,13
+landslide,downpour,medium,77.3916,31.0766,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,74.4016,34.0978,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,80.2214,29.58,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.708,27.3721,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.234,33.241,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,73.347,18.7632,Rainfall-Related,11,8,3,12
+landslide,rain,medium,79.6805,29.5935,Rainfall-Related,10,8,4,12
+translational_slide,continuous_rain,large,90.5573,25.203,Rainfall-Related,11,3,5,12
+landslide,downpour,medium,76.7622,31.3237,Rainfall-Related,12,8,4,12
+landslide,snowfall_snowmelt,medium,75.1969,33.3343,Snow and Ice,6,8,4,9
+landslide,downpour,medium,94.8158,26.1984,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,92.4943,24.4638,Rainfall-Related,11,8,4,12
+rock_fall,downpour,medium,82.8555,18.7734,Rainfall-Related,12,6,4,12
+landslide,unknown,medium,75.264,32.6173,Other,3,8,4,13
+landslide,rain,medium,74.0478,14.9935,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,92.74128531,23.75406693,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.3278,33.1617,Rainfall-Related,12,8,4,12
+rock_fall,downpour,medium,74.2279,14.7822,Rainfall-Related,12,6,4,12
+landslide,downpour,medium,94.803,26.0814,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.1318,25.7902,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,93.4957,24.8961,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,88.3603,27.0377,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.9437,33.0165,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.9258,31.2403,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.5192,30.6509,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,74.3279,34.2088,Rainfall-Related,11,8,4,12
+landslide,rain,small,92.3576,24.8669,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,72.8929,19.1095,Rainfall-Related,12,8,4,12
+landslide,downpour,large,79.7758,29.841,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,74.3313,33.9659,Rainfall-Related,12,8,4,12
+rock_fall,continuous_rain,medium,77.1784,32.2338,Rainfall-Related,11,6,4,12
+landslide,continuous_rain,medium,92.7878,23.3572,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,94.11603493,25.61560252,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.8833,26.4333,Rainfall-Related,12,8,4,12
+landslide,downpour,small,88.4674,27.0599,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,79.0479,30.6838,Rainfall-Related,12,8,4,12
+landslide,monsoon,medium,76.9346,9.8957,Other,9,8,4,13
+debris_flow,rain,medium,88.4909,27.2084,Rainfall-Related,10,5,4,12
+landslide,downpour,medium,75.9957,11.4816,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.4151,30.966,Rainfall-Related,12,8,4,12
+landslide,rain,small,91.7548,26.1314,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,74.3723,33.5405,Rainfall-Related,12,8,4,12
+landslide,mining,small,74.2197,15.7051,Construction and Urban,5,8,3,10
+landslide,downpour,medium,78.4401,30.7332,Rainfall-Related,12,8,4,12
+landslide,unknown,large,94.4922,26.1699,Other,3,8,5,13
+landslide,downpour,medium,94.1167,27.2333,Rainfall-Related,12,8,4,12
+landslide,rain,medium,92.6921,24.1293,Rainfall-Related,10,8,4,12
+landslide,rain,medium,94.0144205,25.03561729,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,78.9014,30.2411,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,75.1793,33.3018,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.1884,25.3833,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.7756,30.9015,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,91.7042,26.1666,Rainfall-Related,11,8,4,12
+landslide,rain,medium,79.3158,30.3642,Rainfall-Related,10,8,4,12
+landslide,unknown,medium,94.7031,26.0977,Other,3,8,4,13
+landslide,downpour,large,80.2098,29.5885,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,77.582,10.2462,Rainfall-Related,12,8,4,12
+landslide,rain,medium,77.1236,11.2777,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,76.5289,9.5988,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.5306,30.7394,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,94.1383,25.48,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,74.5915,34.0096,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,75.4325,33.1289,Rainfall-Related,12,8,4,12
+landslide,rain,medium,94.1139,25.6269,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,92.9974,24.7979,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,88.363,26.7914,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,78.3299,30.9085,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,79.9298,29.607,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,74.0357,34.0796,Rainfall-Related,11,8,4,12
+landslide,unknown,medium,75.5488,33.1467,Other,3,8,4,13
+landslide,unknown,medium,78.3154,30.6004,Other,3,8,4,13
+landslide,downpour,medium,76.9576,30.8741,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,74.2525,33.6794,Other,3,8,4,13
+landslide,downpour,medium,78.2844,31.5699,Rainfall-Related,12,8,4,12
+rock_fall,downpour,small,80.6526,16.5145,Rainfall-Related,12,6,3,12
+landslide,downpour,medium,88.167,26.9978,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.8289,11.4477,Rainfall-Related,12,8,4,12
+landslide,rain,medium,88.3372,26.8545,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,small,74.5594,34.1327,Rainfall-Related,11,8,3,12
+mudslide,monsoon,medium,93.8275,24.9336,Other,9,7,4,13
+landslide,downpour,large,79.0193,30.0667,Rainfall-Related,12,8,5,12
+landslide,rain,medium,94.9731,26.4205,Rainfall-Related,10,8,4,12
+mudslide,continuous_rain,large,73.6873,19.162,Rainfall-Related,11,7,5,12
+landslide,downpour,medium,93.6885,27.1034,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,93.0153,27.4888,Rainfall-Related,12,8,4,12
+rock_fall,downpour,small,73.7767,19.3379,Rainfall-Related,12,6,3,12
+landslide,continuous_rain,small,74.9781,33.8911,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,76.7705,9.8678,Rainfall-Related,12,8,4,12
+landslide,rain,medium,94.1434,23.899,Rainfall-Related,10,8,4,12
+landslide,downpour,large,77.5101,34.208,Rainfall-Related,12,8,5,12
+landslide,rain,medium,77.193,31.2077,Rainfall-Related,10,8,4,12
+landslide,snowfall_snowmelt,large,77.4702,31.8246,Snow and Ice,6,8,5,9
+landslide,monsoon,large,94.3136,25.0118,Other,9,8,5,13
+landslide,downpour,medium,74.9455,33.0068,Rainfall-Related,12,8,4,12
+landslide,rain,medium,95.1645,28.1193,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.2195,32.3109,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,93.3729,25.1019,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,75.17707406,33.27140108,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,large,74.7959,33.7099,Rainfall-Related,11,8,5,12
+landslide,downpour,medium,72.8276,19.4662,Rainfall-Related,12,8,4,12
+landslide,downpour,small,75.7702,33.2706,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,77.5947,10.9628,Rainfall-Related,12,8,4,12
+landslide,rain,small,88.4658,27.1141,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,88.559,27.3773,Rainfall-Related,12,8,4,12
+mudslide,monsoon,medium,94.8133,26.2363,Other,9,7,4,13
+landslide,continuous_rain,medium,94.1051,25.6278,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,78.0767,30.4326,Rainfall-Related,12,8,4,12
+landslide,rain,medium,93.9136,25.7428,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,78.4399,30.7333,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.7141905,23.74182634,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,91.7174,23.0137,Rainfall-Related,12,7,4,12
+landslide,rain,medium,75.247,33.245,Rainfall-Related,10,8,4,12
+landslide,unknown,medium,75.4481,33.1261,Other,3,8,4,13
+landslide,downpour,medium,88.7628,27.3765,Rainfall-Related,12,8,4,12
+rock_fall,rain,medium,74.7362,34.6507,Rainfall-Related,10,6,4,12
+landslide,downpour,medium,76.9371,9.4237,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.9152,26.222,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,94.5163,26.0137,Rainfall-Related,11,8,4,12
+landslide,rain,small,73.1822,18.5158,Rainfall-Related,10,8,3,12
+landslide,continuous_rain,medium,73.703,24.1965,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,small,91.7645,26.1407,Rainfall-Related,11,8,3,12
+landslide,rain,medium,93.117,24.808,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,74.6326,33.6549,Rainfall-Related,12,8,4,12
+landslide,unknown,small,77.312,8.2117,Other,3,8,3,13
+rock_fall,unknown,medium,85.3492,24.544,Mountainous Regions,3,6,4,8
+landslide,monsoon,small,73.8093,15.6019,Other,9,8,3,13
+landslide,downpour,medium,79.5566,30.6521,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.4575,27.1344,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.2746,25.4243,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,90.215,25.5114,Rainfall-Related,12,8,4,12
+mudslide,monsoon,medium,94.7861,25.8877,Other,9,7,4,13
+landslide,downpour,medium,94.1072,25.6623,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,91.3681,25.9611,Rainfall-Related,11,8,4,12
+landslide,monsoon,medium,77.0309,9.9995,Other,9,8,4,13
+landslide,downpour,medium,73.1742,17.5861,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,93.9161,24.7339,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,78.3449,30.6014,Rainfall-Related,12,8,4,12
+landslide,downpour,large,76.635,10.0604,Rainfall-Related,12,8,5,12
+debris_flow,downpour,small,78.4347,30.7314,Rainfall-Related,12,5,3,12
+landslide,downpour,medium,91.7665,26.1978,Rainfall-Related,12,8,4,12
+landslide,downpour,large,75.452,13.986,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,79.2293,30.4749,Rainfall-Related,12,8,4,12
+landslide,rain,medium,78.1723,29.9121,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,92.2121,25.463,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,94.4759,24.9111,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,73.9551,15.7067,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,95.2253,27.8458,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.21320384,33.33280503,Rainfall-Related,12,8,4,12
+rock_fall,other,small,83.0394,18.2807,Mountainous Regions,2,6,3,8
+landslide,downpour,medium,72.8974,19.0997,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,91.7599,23.8986,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.1179,31.944,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.8288,33.1253,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,74.839,33.0716,Rainfall-Related,11,8,4,12
+landslide,rain,small,74.0241,34.0893,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,93.8673,25.5265,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.9228,30.2524,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.1495,32.0987,Rainfall-Related,12,8,4,12
+landslide,rain,medium,80.2119,12.9746,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,78.7753,30.15,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,75.5469,33.1445,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,91.8717,26.1062,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,78.623,30.796,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,94.3551,24.819,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,74.88548779,12.89163444,Rainfall-Related,12,8,4,12
+landslide,rain,medium,77.1043,31.6865,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.1727,31.1054,Rainfall-Related,12,8,4,12
+landslide,rain,medium,78.3276,30.9206,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,94.1399,25.4788,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,74.7756,33.1078,Other,3,8,4,13
+landslide,downpour,small,77.17798485,31.10587659,Rainfall-Related,12,8,3,12
+rock_fall,unknown,medium,77.1209,31.6817,Mountainous Regions,3,6,4,8
+landslide,downpour,medium,74.8556,32.7327,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.1365,27.2644,Rainfall-Related,12,8,4,12
+mudslide,rain,medium,74.1011,33.7732,Rainfall-Related,10,7,4,12
+rock_fall,unknown,medium,80.553,29.8521,Mountainous Regions,3,6,4,8
+landslide,downpour,medium,88.264,27.04,Rainfall-Related,12,8,4,12
+landslide,rain,medium,90.0896,25.5006,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,79.3286,30.3056,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.5371,29.2484,Rainfall-Related,12,8,4,12
+landslide,rain,medium,91.7138,26.1662,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,73.9434,15.5935,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,94.5234,25.8376,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,94.4619,26.0481,Rainfall-Related,11,8,4,12
+rock_fall,downpour,medium,85.6285,24.6997,Rainfall-Related,12,6,4,12
+landslide,rain,small,91.8342,26.1324,Rainfall-Related,10,8,3,12
+landslide,rain,medium,75.2257,33.2451,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.4153,31.4161,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.1963,8.3295,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.3351,30.4068,Rainfall-Related,12,8,4,12
+rock_fall,downpour,small,74.9426,33.0086,Rainfall-Related,12,6,3,12
+landslide,rain,small,88.4694,27.059,Rainfall-Related,10,8,3,12
+landslide,rain,large,88.6458,27.1748,Rainfall-Related,10,8,5,12
+landslide,downpour,medium,74.2664,15.4123,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.7844,25.8702,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,94.5224,26.0214,Rainfall-Related,11,8,4,12
+landslide,downpour,large,74.856,12.9141,Rainfall-Related,12,8,5,12
+mudslide,downpour,small,80.201,29.9964,Rainfall-Related,12,7,3,12
+landslide,continuous_rain,medium,93.4251,24.7459,Rainfall-Related,11,8,4,12
+mudslide,snowfall_snowmelt,medium,74.2453,33.6846,Snow and Ice,6,7,4,9
+landslide,downpour,medium,88.28044714,26.8867642,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.1982,33.3041,Rainfall-Related,12,8,4,12
+rock_fall,monsoon,small,73.3678,18.7686,Mountainous Regions,9,6,3,8
+landslide,rain,medium,92.3825,25.2568,Rainfall-Related,10,8,4,12
+landslide,tropical_cyclone,large,84.1917,19.2046,Natural Disaster-Prone,7,8,5,11
+landslide,downpour,medium,76.0539,34.6056,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,96.9262,27.8835,Rainfall-Related,11,8,4,12
+landslide,monsoon,medium,76.3226,32.2239,Other,9,8,4,13
+landslide,downpour,medium,96.5316,28.0822,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.1711,10.3018,Rainfall-Related,12,8,4,12
+landslide,rain,small,91.7056,26.1295,Rainfall-Related,10,8,3,12
+landslide,unknown,medium,76.3369,32.2237,Other,3,8,4,13
+complex,downpour,medium,88.3652,27.167,Rainfall-Related,12,4,4,12
+landslide,downpour,medium,78.4384,31.5986,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,82.7935,18.7828,Rainfall-Related,12,8,4,12
+landslide,construction,small,77.2791,28.5746,Construction and Urban,4,8,3,10
+landslide,downpour,medium,74.2718,34.1802,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.3684,30.5151,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.0641,30.365,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.56,30.557,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,80.6058,16.5141,Rainfall-Related,12,8,4,12
+landslide,monsoon,medium,94.5497,26.1807,Other,9,8,4,13
+landslide,downpour,medium,78.0193,31.6223,Rainfall-Related,12,8,4,12
+landslide,rain,medium,88.7648,27.3746,Rainfall-Related,10,8,4,12
+landslide,unknown,medium,78.1346,31.5216,Other,3,8,4,13
+landslide,downpour,medium,75.361,11.855,Rainfall-Related,12,8,4,12
+mudslide,rain,medium,75.1533,32.9522,Rainfall-Related,10,7,4,12
+landslide,downpour,medium,94.1211,25.5718,Rainfall-Related,12,8,4,12
+landslide,monsoon,small,91.8074,26.1963,Other,9,8,3,13
+landslide,continuous_rain,medium,74.321,34.2092,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,78.4265,30.1035,Rainfall-Related,12,8,4,12
+landslide,rain,medium,77.2234,32.351,Rainfall-Related,10,8,4,12
+complex,downpour,medium,94.4703,25.6633,Rainfall-Related,12,4,4,12
+debris_flow,tropical_cyclone,medium,82.9565,18.3297,Natural Disaster-Prone,7,5,4,11
+landslide,rain,large,88.4883,27.201,Rainfall-Related,10,8,5,12
+rock_fall,rain,small,77.8644,30.7007,Rainfall-Related,10,6,3,12
+other,unknown,small,77.3957,28.6363,Other,3,2,3,13
+landslide,downpour,medium,77.895,31.4135,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.1774,33.3308,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.8081,9.7268,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.2493,34.5382,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,79.4633,29.3802,Rainfall-Related,12,7,4,12
+landslide,rain,medium,88.42280921,26.99195749,Rainfall-Related,10,8,4,12
+landslide,snowfall_snowmelt,medium,77.1613,32.2862,Snow and Ice,6,8,4,9
+landslide,continuous_rain,medium,78.48,30.8928,Rainfall-Related,11,8,4,12
+landslide,rain,medium,73.8119,15.5931,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,75.9568,32.7029,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,74.5264,33.6296,Other,3,8,4,13
+landslide,downpour,medium,77.4668,30.9009,Rainfall-Related,12,8,4,12
+rock_fall,monsoon,small,73.3471,18.7631,Mountainous Regions,9,6,3,8
+landslide,downpour,small,76.7907,31.9906,Rainfall-Related,12,8,3,12
+rock_fall,unknown,small,76.8285,11.3432,Mountainous Regions,3,6,3,8
+landslide,continuous_rain,medium,72.9089,19.0402,Rainfall-Related,11,8,4,12
+landslide,rain,medium,79.4633,29.3802,Rainfall-Related,10,8,4,12
+landslide,rain,medium,78.754,30.4521,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,75.6953,32.9834,Rainfall-Related,11,8,4,12
+landslide,monsoon,medium,76.9468,9.8539,Other,9,8,4,13
+landslide,rain,medium,78.4543,30.742,Rainfall-Related,10,8,4,12
+landslide,rain,small,91.8178,26.159,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,91.25,26.3333,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,74.5128,33.3551,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,95.029,26.72,Rainfall-Related,12,8,4,12
+landslide,rain,medium,94.108,25.4192,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,73.46485294,16.94054188,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.118,14.8009,Rainfall-Related,12,8,4,12
+landslide,rain,medium,88.7323,27.3736,Rainfall-Related,10,8,4,12
+landslide,tropical_cyclone,medium,88.2592,27.0095,Natural Disaster-Prone,7,8,4,11
+landslide,downpour,medium,93.123,25.1718,Rainfall-Related,12,8,4,12
+landslide,rain,medium,88.3403,22.6461,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,88.6475,27.5509,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.1249,32.5552,Rainfall-Related,12,8,4,12
+landslide,downpour,small,76.4949,11.4991,Rainfall-Related,12,8,3,12
+landslide,continuous_rain,medium,88.4779,27.0736,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,88.263,27.0366,Rainfall-Related,12,8,4,12
+landslide,rain,medium,77.6521,30.5728,Rainfall-Related,10,8,4,12
+landslide,rain,medium,80.1,29.33,Rainfall-Related,10,8,4,12
+mudslide,downpour,medium,73.4745894,16.93911427,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,76.757,31.8028,Rainfall-Related,12,8,4,12
+landslide,monsoon,medium,72.9325,19.1646,Other,9,8,4,13
+landslide,downpour,medium,78.2242533,30.81507336,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,94.6024,25.426,Rainfall-Related,12,7,4,12
+landslide,continuous_rain,medium,75.1495,34.2689,Rainfall-Related,11,8,4,12
+mudslide,rain,medium,76.936,31.703,Rainfall-Related,10,7,4,12
+mudslide,monsoon,medium,94.5238,26.0093,Other,9,7,4,13
+landslide,downpour,large,93.7525,27.1614,Rainfall-Related,12,8,5,12
+rock_fall,rain,small,73.4469,18.241,Rainfall-Related,10,6,3,12
+rock_fall,rain,medium,91.6739,26.1868,Rainfall-Related,10,6,4,12
+landslide,rain,medium,94.2341227,25.51614662,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,79.151,30.2902,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.0772,12.8277,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,73.2961,17.8975,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.233,30.2733,Rainfall-Related,12,8,4,12
+rock_fall,downpour,medium,73.8911,15.3739,Rainfall-Related,12,6,4,12
+landslide,continuous_rain,small,77.1135,31.9563,Rainfall-Related,11,8,3,12
+mudslide,rain,medium,75.4832,34.2946,Rainfall-Related,10,7,4,12
+landslide,downpour,small,88.4301,27.0257,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,75.2045,33.4209,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,78.9953,30.6326,Rainfall-Related,11,8,3,12
+rock_fall,rain,small,78.0648,30.306,Rainfall-Related,10,6,3,12
+mudslide,monsoon,small,76.8294,10.0539,Other,9,7,3,13
+landslide,unknown,medium,78.066,31.0826,Other,3,8,4,13
+landslide,downpour,large,88.632,27.7565,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,78.2936,30.1642,Rainfall-Related,12,8,4,12
+landslide,unknown,small,75.1915,32.9913,Other,3,8,3,13
+complex,downpour,medium,77.0666,30.4084,Rainfall-Related,12,4,4,12
+landslide,downpour,medium,93.0038,26.5836,Rainfall-Related,12,8,4,12
+landslide,rain,medium,93.9667,25.1333,Rainfall-Related,10,8,4,12
+landslide,unknown,medium,73.8049,15.7156,Other,3,8,4,13
+landslide,downpour,small,73.8288,15.4951,Rainfall-Related,12,8,3,12
+mudslide,rain,small,74.8122,14.229,Rainfall-Related,10,7,3,12
+mudslide,continuous_rain,medium,94.3415,25.0634,Rainfall-Related,11,7,4,12
+landslide,downpour,medium,78.6186,30.8183,Rainfall-Related,12,8,4,12
+debris_flow,rain,medium,78.7472,30.1176,Rainfall-Related,10,5,4,12
+landslide,downpour,medium,93.9128,24.837,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,83.0645,18.2733,Rainfall-Related,12,8,4,12
+mudslide,rain,medium,88.38,27.1499,Rainfall-Related,10,7,4,12
+landslide,rain,medium,88.6115,27.1954,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,93.6884,27.1032,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,73.0109,19.1993,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.2627,27.0375,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,78.6171,30.7866,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,91.2698,25.4916,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.0278,30.4008,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.22551799,27.13862165,Rainfall-Related,12,8,4,12
+landslide,rain,medium,74.9112,34.0935,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.0198,9.5207,Rainfall-Related,12,8,4,12
+landslide,rain,medium,94.0,27.163,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,78.0906,30.9058,Rainfall-Related,12,8,4,12
+landslide,rain,small,91.7697,26.1619,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,74.9597,33.9639,Rainfall-Related,12,8,4,12
+landslide,rain,medium,93.9877,25.0604,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.0857,32.3665,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.3308,30.4043,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.6007,30.1454,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,83.8847,21.786,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.9064,27.2743,Rainfall-Related,12,8,4,12
+rock_fall,downpour,small,88.4486,26.9343,Rainfall-Related,12,6,3,12
+landslide,downpour,medium,74.88567317,12.89307458,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.315,31.587,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.0227,34.0887,Rainfall-Related,12,8,4,12
+landslide,monsoon,medium,88.3373,26.8546,Other,9,8,4,13
+landslide,downpour,medium,76.7105,10.007,Rainfall-Related,12,8,4,12
+mudslide,mining,medium,92.8411,24.9849,Construction and Urban,5,7,4,10
+landslide,downpour,medium,74.8333,33.0829,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,77.13222306,31.69137979,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,93.9854,25.5007,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,77.1793,31.1011,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.3567,25.0951,Rainfall-Related,12,8,4,12
+landslide,rain,medium,76.7329,9.9983,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,93.125,24.3069,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,94.1057,25.6263,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,78.4862,30.3799,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,77.9521,31.5041,Rainfall-Related,12,8,4,12
+rock_fall,continuous_rain,medium,73.3679,18.7687,Rainfall-Related,11,6,4,12
+landslide,downpour,medium,74.0256,34.0901,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,94.7596,28.1737,Other,3,8,4,13
+landslide,rain,medium,74.9985,33.9337,Rainfall-Related,10,8,4,12
+landslide,downpour,large,93.6086,27.0869,Rainfall-Related,12,8,5,12
+complex,rain,medium,91.8506,25.5576,Rainfall-Related,10,4,4,12
+landslide,downpour,medium,79.3532,29.913,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.40011959,26.74452462,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,88.2796,26.888,Other,3,8,4,13
+landslide,downpour,medium,76.2227,11.2695,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,73.5086,18.3978,Rainfall-Related,12,8,4,12
+mudslide,continuous_rain,medium,93.0514,23.8447,Rainfall-Related,11,7,4,12
+landslide,rain,large,79.5682,28.8665,Rainfall-Related,10,8,5,12
+mudslide,downpour,very_large,77.5874,34.1114,Rainfall-Related,12,7,6,12
+landslide,snowfall_snowmelt,medium,75.2439,33.2359,Snow and Ice,6,8,4,9
+landslide,continuous_rain,medium,74.4889,33.0365,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,small,91.8666,25.5772,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,76.7898,9.9903,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,73.46476377,16.94057232,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.0757,25.5498,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,88.28087032,26.88405686,Rainfall-Related,11,8,4,12
+landslide,downpour,very_large,93.5444,24.8142,Rainfall-Related,12,8,6,12
+landslide,downpour,medium,88.2426,27.3425,Rainfall-Related,12,8,4,12
+rock_fall,unknown,small,76.9101,11.3237,Mountainous Regions,3,6,3,8
+landslide,downpour,medium,79.3211,29.5477,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.5435,30.6358,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.801,25.0477,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.04619681,25.70223725,Rainfall-Related,12,8,4,12
+landslide,downpour,large,88.1069,27.1176,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,77.2847,30.7395,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,89.9032,25.7238,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,76.1201,32.5655,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,75.1922,33.3376,Other,3,8,4,13
+landslide,continuous_rain,medium,94.5247,26.3185,Rainfall-Related,11,8,4,12
+landslide,unknown,medium,78.2253,11.81,Other,3,8,4,13
+landslide,downpour,medium,76.2833,32.2108,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,91.7896,26.1844,Rainfall-Related,11,8,3,12
+landslide,continuous_rain,medium,72.9981,19.1355,Rainfall-Related,11,8,4,12
+landslide,rain,small,75.4446,34.2607,Rainfall-Related,10,8,3,12
+landslide,continuous_rain,large,74.056,34.0823,Rainfall-Related,11,8,5,12
+landslide,rain,medium,77.3544,30.6738,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,small,78.1443,30.4517,Rainfall-Related,11,8,3,12
+landslide,rain,medium,94.0691,24.2451,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,75.8466,32.5764,Rainfall-Related,12,8,4,12
+landslide,downpour,large,77.7274,20.855,Rainfall-Related,12,8,5,12
+landslide,downpour,large,77.3265,34.3061,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,77.209,31.1066,Rainfall-Related,12,8,4,12
+mudslide,continuous_rain,medium,94.1136,25.6237,Rainfall-Related,11,7,4,12
+landslide,downpour,medium,75.8011,33.1595,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.2779,26.8811,Rainfall-Related,12,8,4,12
+landslide,rain,medium,78.0501,15.8294,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,small,76.3738,9.9431,Rainfall-Related,11,8,3,12
+landslide,tropical_cyclone,medium,80.6296,16.5121,Natural Disaster-Prone,7,8,4,11
+landslide,downpour,medium,88.3651,27.1675,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.1892,32.99,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.3233,30.6179,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.1916877,33.3390327,Rainfall-Related,12,8,4,12
+landslide,rain,medium,77.09,31.13,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.2466,32.3709,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,94.0644,24.4072,Rainfall-Related,11,8,4,12
+landslide,rain,medium,79.2143,30.3629,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,92.694,23.7527,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.9397,33.0107,Rainfall-Related,12,8,4,12
+debris_flow,downpour,very_large,79.0666,30.7351,Rainfall-Related,12,5,6,12
+mudslide,downpour,medium,94.25,26.138,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,77.1104,31.958,Rainfall-Related,12,8,4,12
+debris_flow,flooding,medium,76.5516,10.9654,Mountainous Regions,8,5,4,8
+landslide,continuous_rain,medium,94.0573,23.9939,Rainfall-Related,11,8,4,12
+landslide,rain,medium,91.72137514,26.49349035,Rainfall-Related,10,8,4,12
+landslide,downpour,small,77.899,11.3742,Rainfall-Related,12,8,3,12
+mudslide,downpour,medium,78.1677,29.9551,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,77.8876,33.303,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.187,32.1896,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.1498,9.8232,Rainfall-Related,12,8,4,12
+complex,downpour,medium,94.1066,25.67,Rainfall-Related,12,4,4,12
+landslide,rain,medium,94.0564,24.4279,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,80.6525,16.5157,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.6167,31.8833,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,76.7606,10.0486,Other,3,8,4,13
+landslide,downpour,medium,74.9489,33.0289,Rainfall-Related,12,8,4,12
+landslide,downpour,large,77.5971,34.1482,Rainfall-Related,12,8,5,12
+landslide,rain,medium,76.8806,11.338,Rainfall-Related,10,8,4,12
+landslide,rain,medium,93.8443,24.9356,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.1103,30.9086,Rainfall-Related,12,8,4,12
+landslide,rain,medium,88.4659,27.0638,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,73.0226,19.0811,Rainfall-Related,11,8,4,12
+landslide,construction,medium,77.0588,30.8974,Construction and Urban,4,8,4,10
+mudslide,monsoon,medium,73.593,16.9214,Other,9,7,4,13
+landslide,downpour,medium,76.853,32.6598,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,79.5269,30.6494,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,77.1402,31.0722,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.6264,33.0498,Rainfall-Related,12,8,4,12
+landslide,rain,medium,93.5039,24.7543,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,72.8102,18.9774,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.4138,32.7571,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.2562,33.3852,Rainfall-Related,12,8,4,12
+rock_fall,unknown,medium,77.089,30.895,Mountainous Regions,3,6,4,8
+landslide,rain,medium,92.7362,23.7131,Rainfall-Related,10,8,4,12
+landslide,downpour,large,77.1645,31.1,Rainfall-Related,12,8,5,12
+landslide,rain,medium,94.9439,26.3897,Rainfall-Related,10,8,4,12
+landslide,mining,medium,78.63,31.8931,Construction and Urban,5,8,4,10
+landslide,continuous_rain,medium,80.8576,30.1719,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,73.6608,16.5676,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,73.5027,17.0661,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,77.1751,31.1003,Rainfall-Related,11,8,3,12
+landslide,unknown,medium,75.6157,32.6175,Other,3,8,4,13
+landslide,rain,small,92.3807,25.1416,Rainfall-Related,10,8,3,12
+rock_fall,continuous_rain,medium,78.8578,31.0358,Rainfall-Related,11,6,4,12
+rock_fall,monsoon,small,80.2364,30.0705,Mountainous Regions,9,6,3,8
+landslide,downpour,medium,92.72124394,23.73478778,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,91.7825,26.1961,Rainfall-Related,12,7,4,12
+landslide,rain,medium,92.3636,25.0728,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,76.933,31.7099,Rainfall-Related,12,8,4,12
+rock_fall,unknown,medium,88.5294,27.1758,Mountainous Regions,3,6,4,8
+landslide,continuous_rain,small,75.2102,33.2504,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,73.9239,15.3826,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.0958,30.9012,Rainfall-Related,12,8,4,12
+landslide,rain,small,75.2405,33.2394,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,88.5292,27.172,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.5768,34.1534,Rainfall-Related,12,8,4,12
+mudslide,continuous_rain,medium,84.0696,24.0406,Rainfall-Related,11,7,4,12
+landslide,downpour,very_large,78.9829,30.2853,Rainfall-Related,12,8,6,12
+landslide,downpour,medium,75.5526,33.1488,Rainfall-Related,12,8,4,12
+rock_fall,continuous_rain,medium,77.8561,31.5728,Rainfall-Related,11,6,4,12
+landslide,rain,small,76.8267,11.3403,Rainfall-Related,10,8,3,12
+landslide,continuous_rain,medium,75.4189,34.258,Rainfall-Related,11,8,4,12
+landslide,rain,medium,79.0853,30.5345,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,76.2851,34.4332,Rainfall-Related,12,8,4,12
+complex,downpour,medium,80.6053,16.5141,Rainfall-Related,12,4,4,12
+landslide,downpour,medium,92.7187,23.7313,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.3902,9.8988,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,88.28,26.89,Other,3,8,4,13
+landslide,downpour,medium,76.9844,30.7059,Rainfall-Related,12,8,4,12
+landslide,mining,medium,83.1809,19.5178,Construction and Urban,5,8,4,10
+landslide,continuous_rain,small,74.2798,34.4002,Rainfall-Related,11,8,3,12
+landslide,rain,medium,88.2833,26.8833,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,78.0949,30.3822,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,74.3836,34.0786,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,76.9316,31.7083,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.4594,30.9936,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.2566,14.7395,Rainfall-Related,12,8,4,12
+rock_fall,downpour,medium,73.7767,19.3379,Rainfall-Related,12,6,4,12
+landslide,unknown,medium,93.6795,25.1604,Other,3,8,4,13
+landslide,downpour,medium,76.69,11.41,Rainfall-Related,12,8,4,12
+landslide,downpour,small,76.9424,31.7018,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,88.609,27.337,Rainfall-Related,12,8,4,12
+landslide,downpour,small,88.6087,27.322,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,95.8776,28.4298,Rainfall-Related,12,8,4,12
+landslide,downpour,small,73.009,19.19,Rainfall-Related,12,8,3,12
+landslide,continuous_rain,unknown,92.7264,24.5204,Rainfall-Related,11,8,2,12
+landslide,downpour,large,92.6351,27.0136,Rainfall-Related,12,8,5,12
+landslide,rain,medium,77.1935,32.3237,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,75.4466,34.2601,Rainfall-Related,12,8,4,12
+landslide,downpour,small,72.8406,19.1209,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,88.5577,27.7167,Rainfall-Related,12,8,4,12
+landslide,rain,medium,75.2476,12.8446,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,76.9408,9.8306,Rainfall-Related,12,8,4,12
+landslide,rain,large,93.6287,27.0998,Rainfall-Related,10,8,5,12
+landslide,downpour,medium,78.8847,30.2485,Rainfall-Related,12,8,4,12
+landslide,rain,small,91.7082,26.1044,Rainfall-Related,10,8,3,12
+landslide,rain,small,75.2406,33.2395,Rainfall-Related,10,8,3,12
+landslide,rain,medium,91.7599,26.1771,Rainfall-Related,10,8,4,12
+landslide,tropical_cyclone,medium,84.0502,19.1008,Natural Disaster-Prone,7,8,4,11
+landslide,unknown,medium,75.5844,12.7796,Other,3,8,4,13
+landslide,downpour,medium,75.1994,32.9961,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,95.4993,26.9986,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,93.8067,25.7713,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,88.6556,27.0875,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.349,30.4,Rainfall-Related,12,8,4,12
+landslide,tropical_cyclone,medium,74.0226,34.0942,Natural Disaster-Prone,7,8,4,11
+rock_fall,rain,small,76.5102,31.6916,Rainfall-Related,10,6,3,12
+mudslide,rain,medium,93.0515,27.8837,Rainfall-Related,10,7,4,12
+landslide,rain,medium,78.3027,30.0702,Rainfall-Related,10,8,4,12
+landslide,rain,medium,88.42572376,27.05374234,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,80.058,29.7911,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,74.799,33.9445,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,77.1038,31.0215,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,77.2147,32.4318,Rainfall-Related,11,8,4,12
+complex,construction,medium,76.86927482,31.46626719,Construction and Urban,4,4,4,10
+landslide,rain,medium,77.4767,10.2288,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,93.9482,24.8063,Rainfall-Related,12,8,4,12
+landslide,rain,medium,73.8362,15.5063,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,74.1447,15.2932,Rainfall-Related,12,8,4,12
+landslide,rain,medium,77.08,30.7,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,75.1996,33.4406,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.8416,22.7176,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.8,27.7,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,93.8794,25.5098,Rainfall-Related,11,8,4,12
+mudslide,mining,small,75.4856,11.8348,Construction and Urban,5,7,3,10
+landslide,monsoon,large,76.074,11.7095,Other,9,8,5,13
+landslide,downpour,medium,94.4182,24.8628,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.494,29.6131,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,72.9084,19.6241,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,93.5027,24.9786,Rainfall-Related,12,8,4,12
+landslide,rain,medium,92.8339,25.2946,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,75.1915,33.4431,Rainfall-Related,12,8,4,12
+landslide,downpour,small,73.8182,15.3904,Rainfall-Related,12,8,3,12
+landslide,continuous_rain,medium,75.1199,32.5282,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,75.6233,34.3951,Rainfall-Related,12,8,4,12
+rock_fall,downpour,medium,78.8743,16.0781,Rainfall-Related,12,6,4,12
+landslide,downpour,medium,74.1158,15.6365,Rainfall-Related,12,8,4,12
+landslide,rain,large,76.2665,32.0985,Rainfall-Related,10,8,5,12
+landslide,downpour,medium,91.7162,26.1226,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,91.893,25.583,Rainfall-Related,12,8,4,12
+landslide,unknown,small,78.1758,31.5007,Other,3,8,3,13
+landslide,downpour,small,73.7167,16.1078,Rainfall-Related,12,8,3,12
+landslide,continuous_rain,medium,78.616,30.7864,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,76.9161,31.8795,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.3814,24.6005,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.3445,34.2101,Rainfall-Related,12,8,4,12
+landslide,rain,small,78.0803,30.4305,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,80.2369,30.0718,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.439,30.733,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,91.8569,27.5799,Rainfall-Related,11,8,4,12
+landslide,rain,medium,75.3098,33.1662,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,very_large,77.011,9.9147,Rainfall-Related,11,8,6,12
+landslide,downpour,medium,91.9754,27.5754,Rainfall-Related,12,8,4,12
+landslide,rain,medium,80.6128,16.6252,Rainfall-Related,10,8,4,12
+landslide,rain,medium,92.2833,27.44,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,79.3276,30.4041,Rainfall-Related,11,8,4,12
+landslide,monsoon,medium,94.5438,26.2083,Other,9,8,4,13
+landslide,continuous_rain,medium,74.4117,34.0968,Rainfall-Related,11,8,4,12
+landslide,construction,small,74.8859,12.8962,Construction and Urban,4,8,3,10
+landslide,monsoon,medium,93.9784,24.6596,Other,9,8,4,13
+landslide,downpour,medium,72.8676,19.0263,Rainfall-Related,12,8,4,12
+mudslide,continuous_rain,medium,94.1497,25.8266,Rainfall-Related,11,7,4,12
+landslide,downpour,medium,79.5519,29.3576,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.8799,33.0852,Rainfall-Related,12,8,4,12
+landslide,monsoon,small,91.7702,26.1768,Other,9,8,3,13
+mudslide,downpour,large,93.3497,27.8997,Rainfall-Related,12,7,5,12
+landslide,continuous_rain,small,88.4397,27.0816,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,73.9214,15.5419,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.0967,33.7706,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.8168,9.6991,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.9035,33.5808,Rainfall-Related,12,8,4,12
+landslide,unknown,large,77.2853,33.287,Other,3,8,5,13
+landslide,rain,medium,78.2619,31.5158,Rainfall-Related,10,8,4,12
+mudslide,monsoon,medium,80.4703,26.3221,Other,9,7,4,13
+landslide,downpour,medium,75.17240669,33.35406635,Rainfall-Related,12,8,4,12
+landslide,rain,medium,76.322,10.077,Rainfall-Related,10,8,4,12
+landslide,rain,large,92.7175,23.7281,Rainfall-Related,10,8,5,12
+landslide,continuous_rain,medium,76.818,30.9141,Rainfall-Related,11,8,4,12
+landslide,unknown,medium,73.7917,20.0014,Other,3,8,4,13
+landslide,monsoon,medium,93.686,25.16,Other,9,8,4,13
+landslide,continuous_rain,small,79.1464,29.1585,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,75.1984,33.3216,Rainfall-Related,12,8,4,12
+landslide,rain,medium,76.991,30.8522,Rainfall-Related,10,8,4,12
+landslide,unknown,medium,91.85672387,27.5798729,Other,3,8,4,13
+landslide,downpour,medium,75.2382,33.2412,Rainfall-Related,12,8,4,12
+mudslide,construction,small,76.8076,11.3464,Construction and Urban,4,7,3,10
+mudslide,unknown,small,77.2135,28.5714,Other,3,7,3,13
+landslide,downpour,medium,92.2897,25.3433,Rainfall-Related,12,8,4,12
+landslide,rain,medium,91.6906,26.1016,Rainfall-Related,10,8,4,12
+mudslide,rain,medium,92.6755,24.2315,Rainfall-Related,10,7,4,12
+landslide,downpour,medium,88.1835,26.8843,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,91.763,26.1965,Rainfall-Related,12,8,4,12
+landslide,rain,medium,78.1996,31.4551,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,80.2182,29.5829,Rainfall-Related,11,8,4,12
+landslide,rain,medium,77.2665,34.219,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.1958,28.6809,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.0264,30.6509,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,91.8806,26.1028,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,75.1999,33.3645,Rainfall-Related,12,8,4,12
+landslide,rain,medium,73.5189,16.9648,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,75.1489,32.8363,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,73.7746,19.34,Other,3,8,4,13
+landslide,downpour,medium,77.3052,32.3573,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,77.3525,31.1263,Rainfall-Related,11,8,4,12
+landslide,rain,medium,78.7248,31.0343,Rainfall-Related,10,8,4,12
+landslide,rain,medium,74.876,32.737,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,small,74.9566,12.8747,Rainfall-Related,11,8,3,12
+landslide,rain,medium,76.0412,33.6917,Rainfall-Related,10,8,4,12
+rock_fall,unknown,medium,76.6952,11.404,Mountainous Regions,3,6,4,8
+mudslide,continuous_rain,medium,87.3412,26.9734,Rainfall-Related,11,7,4,12
+landslide,downpour,medium,74.8862,12.8715,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,75.29048614,33.04965334,Rainfall-Related,11,8,4,12
+debris_flow,continuous_rain,medium,76.3374,32.2241,Rainfall-Related,11,5,4,12
+landslide,rain,medium,94.564,26.0838,Rainfall-Related,10,8,4,12
+landslide,downpour,large,77.6538,34.1481,Rainfall-Related,12,8,5,12
+landslide,unknown,medium,84.5322,25.4551,Other,3,8,4,13
+landslide,downpour,medium,92.6724,24.042,Rainfall-Related,12,8,4,12
+landslide,rain,medium,78.8205,14.4702,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,78.8996,30.2416,Rainfall-Related,12,8,4,12
+landslide,construction,medium,72.566,23.0396,Construction and Urban,4,8,4,10
+landslide,rain,medium,76.7937,11.3484,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,79.3888,30.5004,Rainfall-Related,12,8,4,12
+landslide,downpour,small,93.7145,27.125,Rainfall-Related,12,8,3,12
+landslide,rain,medium,96.1509,28.8254,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.1675,31.0931,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,94.0984,24.416,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,75.22742083,33.2443135,Rainfall-Related,12,8,4,12
+mudslide,unknown,medium,94.9731,26.4205,Other,3,7,4,13
+other,rain,medium,75.0556,32.9148,Rainfall-Related,10,2,4,12
+landslide,downpour,medium,76.2699,32.1002,Rainfall-Related,12,8,4,12
+landslide,rain,medium,75.242,33.2418,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.5796,32.4035,Rainfall-Related,12,8,4,12
+mudslide,continuous_rain,small,77.1665,31.0851,Rainfall-Related,11,7,3,12
+landslide,unknown,large,75.244,33.2359,Other,3,8,5,13
+landslide,downpour,medium,94.1327,25.4786,Rainfall-Related,12,8,4,12
+landslide,rain,medium,80.6117,16.5175,Rainfall-Related,10,8,4,12
+mudslide,rain,medium,88.4451,27.4885,Rainfall-Related,10,7,4,12
+landslide,downpour,large,77.3504,34.2116,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,94.1739,25.8782,Rainfall-Related,12,8,4,12
+landslide,rain,medium,88.3664,27.1695,Rainfall-Related,10,8,4,12
+landslide,unknown,medium,77.9277,31.5593,Other,3,8,4,13
+landslide,rain,small,92.4584,25.0318,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,78.5094,30.383,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.072,32.219,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,79.5541,30.5568,Rainfall-Related,11,8,3,12
+landslide,downpour,large,94.9829,28.611,Rainfall-Related,12,8,5,12
+landslide,continuous_rain,medium,93.3783,23.5397,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,75.1432,32.9295,Rainfall-Related,12,8,4,12
+landslide,downpour,large,91.7369,26.1049,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,88.268,26.9599,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.3426,30.4054,Rainfall-Related,12,8,4,12
+landslide,rain,medium,77.2466,32.3712,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,96.1517,28.8254,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.9137,30.1977,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,75.2449,33.1213,Other,3,8,4,13
+landslide,monsoon,medium,93.0385,27.36,Other,9,8,4,13
+landslide,downpour,medium,91.8383,26.1309,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,95.4112,28.3036,Rainfall-Related,12,8,4,12
+rock_fall,rain,medium,73.974,15.323,Rainfall-Related,10,6,4,12
+landslide,continuous_rain,small,93.8474,25.1555,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,76.9299,9.5527,Rainfall-Related,12,8,4,12
+landslide,rain,medium,78.0574,30.6639,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,94.0212,25.2745,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.71060943,23.73504471,Rainfall-Related,12,8,4,12
+complex,downpour,medium,92.8551,25.0888,Rainfall-Related,12,4,4,12
+landslide,downpour,medium,88.6188,27.3392,Rainfall-Related,12,8,4,12
+mudslide,construction,medium,78.4606,17.4655,Construction and Urban,4,7,4,10
+landslide,rain,medium,78.0169,30.3069,Rainfall-Related,10,8,4,12
+landslide,unknown,medium,91.8695,26.048,Other,3,8,4,13
+landslide,downpour,small,85.6179,24.3599,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,93.0748,23.3439,Rainfall-Related,12,8,4,12
+rock_fall,downpour,small,90.2191,25.5084,Rainfall-Related,12,6,3,12
+landslide,downpour,medium,78.3297,30.638,Rainfall-Related,12,8,4,12
+landslide,downpour,very_large,94.693,26.7103,Rainfall-Related,12,8,6,12
+landslide,downpour,medium,75.0327,12.8806,Rainfall-Related,12,8,4,12
+landslide,mining,medium,77.0991,31.0164,Construction and Urban,5,8,4,10
+landslide,downpour,medium,88.6428,27.3543,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,93.4108,24.7679,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.6695,33.2257,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.8886,33.2599,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.9988,34.0123,Rainfall-Related,12,8,4,12
+landslide,rain,small,78.6278,30.0261,Rainfall-Related,10,8,3,12
+landslide,continuous_rain,small,73.0618,19.2677,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,78.5658,29.7036,Rainfall-Related,12,8,4,12
+landslide,rain,medium,74.2562,33.798,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,75.1919,33.2477,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,79.0853,30.5345,Other,3,8,4,13
+landslide,rain,medium,78.3366,30.6539,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,94.6219,25.72,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,94.5282,26.0101,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,79.4774,30.4605,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,73.311,19.029,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,77.15,28.758,Rainfall-Related,12,8,4,12
+landslide,rain,small,75.7797,12.9455,Rainfall-Related,10,8,3,12
+landslide,rain,medium,77.5914,32.7334,Rainfall-Related,10,8,4,12
+rock_fall,rain,small,78.5113,30.3351,Rainfall-Related,10,6,3,12
+landslide,rain,medium,88.4572,27.0875,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,94.1076,25.682,Rainfall-Related,12,8,4,12
+landslide,rain,medium,76.5338,31.673,Rainfall-Related,10,8,4,12
+landslide,downpour,large,92.7187,23.7348,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,77.1723589,31.09907494,Rainfall-Related,12,8,4,12
+landslide,rain,medium,78.499,17.3895,Rainfall-Related,10,8,4,12
+mudslide,rain,medium,78.1333,27.0167,Rainfall-Related,10,7,4,12
+landslide,continuous_rain,medium,78.48,30.8928,Rainfall-Related,11,8,4,12
+landslide,rain,medium,78.4396,30.7292,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,90.5549,25.2193,Rainfall-Related,11,8,4,12
+landslide,monsoon,medium,91.8644,27.5748,Other,9,8,4,13
+landslide,downpour,large,74.499,14.7812,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,88.2807,26.8781,Rainfall-Related,12,8,4,12
+landslide,downpour,large,94.0441,25.318,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,77.1679,31.5596,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,93.5291,24.7016,Rainfall-Related,11,8,4,12
+landslide,rain,medium,83.9462,21.464,Rainfall-Related,10,8,4,12
+landslide,rain,medium,88.2374,23.9304,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,83.1993,17.6874,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,75.2381,33.2424,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.0319,30.3214,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,75.0911,32.9041,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,79.1939,30.1944,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,76.9876,31.7756,Other,3,8,4,13
+rock_fall,downpour,large,77.4266,30.6935,Rainfall-Related,12,6,5,12
+landslide,downpour,medium,92.8025,25.0633,Rainfall-Related,12,8,4,12
+rock_fall,downpour,medium,76.8691,11.344,Rainfall-Related,12,6,4,12
+landslide,downpour,medium,77.5206,10.4497,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.1095,25.6703,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,76.1238,32.5612,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,79.6592,29.5987,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.4695,26.8692,Rainfall-Related,12,8,4,12
+landslide,downpour,large,79.5343,29.6042,Rainfall-Related,12,8,5,12
+rock_fall,unknown,medium,78.0366,30.4876,Mountainous Regions,3,6,4,8
+landslide,downpour,medium,77.1325,31.0655,Rainfall-Related,12,8,4,12
+landslide,rain,medium,76.8902,8.742,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,76.7416,10.0011,Rainfall-Related,12,8,4,12
+landslide,rain,medium,75.66,12.845,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,75.3504,32.6188,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,88.2806,26.8826,Rainfall-Related,11,8,4,12
+debris_flow,downpour,medium,78.3303,30.6293,Rainfall-Related,12,5,4,12
+landslide,downpour,medium,94.04,25.705,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.5121,26.3186,Rainfall-Related,12,8,4,12
+landslide,rain,medium,74.11,15.15,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,94.3591,25.1122,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,88.497,27.2319,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,80.1306,27.5862,Rainfall-Related,12,8,4,12
+landslide,downpour,small,77.1803,32.2934,Rainfall-Related,12,8,3,12
+landslide,rain,medium,75.5464,33.1517,Rainfall-Related,10,8,4,12
+landslide,downpour,large,94.8885,28.9986,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,74.1872,33.577,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,95.0283,26.7215,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.8371,30.3846,Rainfall-Related,12,8,4,12
+other,downpour,medium,92.749,11.6753,Rainfall-Related,12,2,4,12
+landslide,rain,medium,88.2816,27.2872,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.2889,30.5589,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.6724,30.4238,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.7146,23.7365,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.5217,23.7705,Rainfall-Related,12,8,4,12
+rock_fall,monsoon,medium,73.7793,19.336,Mountainous Regions,9,6,4,8
+landslide,downpour,medium,75.1772,33.3307,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.34149164,34.38667467,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,74.6568,34.141,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,78.0976,31.5168,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.3896,30.135,Rainfall-Related,12,8,4,12
+landslide,monsoon,medium,94.6055,26.1498,Other,9,8,4,13
+landslide,downpour,very_large,79.49970189,30.75402442,Rainfall-Related,12,8,6,12
+landslide,downpour,medium,75.2131,33.2483,Rainfall-Related,12,8,4,12
+landslide,rain,medium,88.4719,26.9015,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,75.0018,33.0271,Rainfall-Related,12,8,4,12
+landslide,tropical_cyclone,medium,88.2791,26.8836,Natural Disaster-Prone,7,8,4,11
+landslide,rain,medium,78.2034,11.7792,Rainfall-Related,10,8,4,12
+landslide,unknown,medium,80.2123,29.5798,Other,3,8,4,13
+landslide,downpour,medium,94.8422,26.148,Rainfall-Related,12,8,4,12
+landslide,rain,medium,73.9958,15.9517,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,72.8889,19.1287,Rainfall-Related,12,8,4,12
+landslide,downpour,small,88.443,27.0087,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,76.9001,31.5494,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,90.2167,25.5144,Rainfall-Related,12,8,4,12
+mudslide,downpour,small,74.8852,12.8659,Rainfall-Related,12,7,3,12
+landslide,downpour,medium,79.4841,29.3987,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,78.6814,30.9111,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,77.02239366,31.71456806,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.6115,29.9862,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.0376,11.405,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.79428356,33.9548314,Rainfall-Related,12,8,4,12
+landslide,rain,medium,91.27,25.52,Rainfall-Related,10,8,4,12
+landslide,rain,large,76.6953,11.4046,Rainfall-Related,10,8,5,12
+landslide,rain,medium,91.7652,26.1964,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,small,74.0301,34.0886,Rainfall-Related,11,8,3,12
+landslide,rain,medium,79.0579,30.4091,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,76.973,31.7017,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.4354,31.645,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.456,27.0678,Rainfall-Related,12,8,4,12
+landslide,rain,medium,88.28121204,27.06826195,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,74.0256,34.09,Rainfall-Related,12,8,4,12
+complex,downpour,large,79.9261,30.0134,Rainfall-Related,12,4,5,12
+landslide,continuous_rain,medium,94.1913,24.4265,Rainfall-Related,11,8,4,12
+landslide,mining,medium,74.0113,15.3956,Construction and Urban,5,8,4,10
+landslide,monsoon,medium,76.8661,9.835,Other,9,8,4,13
+rock_fall,downpour,medium,77.9796,31.563,Rainfall-Related,12,6,4,12
+landslide,downpour,medium,73.5178,16.656,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.9465,33.0272,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.7043,31.4898,Rainfall-Related,12,8,4,12
+landslide,downpour,large,88.1881,26.8352,Rainfall-Related,12,8,5,12
+landslide,continuous_rain,medium,88.1667,26.8992,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,92.71495623,23.72988966,Rainfall-Related,12,8,4,12
+landslide,rain,medium,91.8,26.1833,Rainfall-Related,10,8,4,12
+landslide,rain,medium,88.3052,26.8712,Rainfall-Related,10,8,4,12
+landslide,rain,medium,88.35,27.1667,Rainfall-Related,10,8,4,12
+landslide,downpour,large,75.8101,26.876,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,79.04191791,30.67629482,Rainfall-Related,12,8,4,12
+landslide,rain,medium,91.8587,25.9702,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,79.4971,30.7284,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.9297,31.7093,Rainfall-Related,12,8,4,12
+rock_fall,rain,medium,77.3446,32.0275,Rainfall-Related,10,6,4,12
+landslide,downpour,medium,88.633,27.7344,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.6065,27.339,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,78.3415,30.416,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,77.5092,31.1191,Rainfall-Related,12,8,4,12
+landslide,rain,medium,94.1192,25.4993,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.5146,10.2445,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,78.908,30.2414,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,79.0758,30.7204,Rainfall-Related,11,8,3,12
+landslide,continuous_rain,medium,75.203,33.3296,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,84.5699,19.3805,Rainfall-Related,12,8,4,12
+rock_fall,rain,large,90.232,25.5212,Rainfall-Related,10,6,5,12
+landslide,continuous_rain,medium,75.3156,34.0404,Rainfall-Related,11,8,4,12
+landslide,rain,medium,94.0906,23.9278,Rainfall-Related,10,8,4,12
+mudslide,continuous_rain,medium,93.55,24.9667,Rainfall-Related,11,7,4,12
+landslide,downpour,medium,77.2498,32.3733,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,73.0114,19.1935,Rainfall-Related,12,8,4,12
+rock_fall,mining,small,78.0298,10.0545,Construction and Urban,5,6,3,10
+landslide,downpour,medium,93.0123,25.1775,Rainfall-Related,12,8,4,12
+landslide,unknown,large,76.9832,31.7766,Other,3,8,5,13
+landslide,downpour,medium,75.2405,33.0186,Rainfall-Related,12,8,4,12
+rock_fall,rain,medium,75.1945,32.9918,Rainfall-Related,10,6,4,12
+landslide,downpour,medium,88.2478,27.0161,Rainfall-Related,12,8,4,12
+landslide,monsoon,medium,76.7604,10.3031,Other,9,8,4,13
+landslide,downpour,medium,93.1265,25.3056,Rainfall-Related,12,8,4,12
+complex,unknown,medium,75.7454,33.1463,Other,3,4,4,13
+landslide,rain,small,73.4361,17.9031,Rainfall-Related,10,8,3,12
+landslide,downpour,small,77.8987,11.374,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,75.2381,33.2413,Rainfall-Related,12,8,4,12
+landslide,rain,medium,73.8377,15.3925,Rainfall-Related,10,8,4,12
+landslide,unknown,small,75.2138,33.2611,Other,3,8,3,13
+landslide,continuous_rain,medium,94.4481,25.1941,Rainfall-Related,11,8,4,12
+landslide,monsoon,medium,76.9683,9.879,Other,9,8,4,13
+landslide,downpour,medium,73.364,18.7654,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.5277,10.3184,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.1054,25.4196,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,88.2476,27.0165,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,small,74.5828,14.8937,Rainfall-Related,11,8,3,12
+landslide,monsoon,medium,94.13,25.83,Other,9,8,4,13
+rock_fall,downpour,medium,77.0611,9.7967,Rainfall-Related,12,6,4,12
+landslide,continuous_rain,small,72.7308,24.5938,Rainfall-Related,11,8,3,12
+landslide,continuous_rain,small,80.2186,29.5863,Rainfall-Related,11,8,3,12
+mudslide,rain,medium,93.4946,24.9926,Rainfall-Related,10,7,4,12
+landslide,downpour,medium,88.3195318,26.88211522,Rainfall-Related,12,8,4,12
+landslide,downpour,large,92.8112,23.4495,Rainfall-Related,12,8,5,12
+landslide,downpour,medium,93.948,24.7992,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,91.7049,26.1665,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,73.1694,19.2179,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,75.5787,33.0977,Other,3,8,4,13
+landslide,downpour,medium,75.1611,33.2466,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,94.5512,26.3335,Rainfall-Related,12,8,4,12
+mudslide,downpour,large,76.4319,10.3228,Rainfall-Related,12,7,5,12
+landslide,continuous_rain,small,94.2156,24.954,Rainfall-Related,11,8,3,12
+rock_fall,unknown,small,76.4788,10.0533,Mountainous Regions,3,6,3,8
+mudslide,downpour,medium,93.0083,25.1796,Rainfall-Related,12,7,4,12
+landslide,continuous_rain,small,77.7652,33.616,Rainfall-Related,11,8,3,12
+landslide,downpour,medium,78.197,30.012,Rainfall-Related,12,8,4,12
+landslide,rain,medium,94.1162,25.4379,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,77.2106,32.304,Rainfall-Related,12,8,4,12
+landslide,rain,large,94.0132,25.7055,Rainfall-Related,10,8,5,12
+landslide,downpour,medium,79.4356,30.7991,Rainfall-Related,12,8,4,12
+mudslide,downpour,medium,93.804,27.3034,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,95.4149,28.3092,Rainfall-Related,12,8,4,12
+rock_fall,continuous_rain,medium,73.3852,18.7591,Rainfall-Related,11,6,4,12
+mudslide,unknown,medium,94.6279,25.9466,Other,3,7,4,13
+rock_fall,rain,medium,88.6463,27.6047,Rainfall-Related,10,6,4,12
+landslide,snowfall_snowmelt,medium,75.2027,33.4372,Snow and Ice,6,8,4,9
+landslide,rain,medium,88.526,26.8096,Rainfall-Related,10,8,4,12
+landslide,monsoon,medium,72.8562,19.0176,Other,9,8,4,13
+landslide,rain,medium,72.9104,19.0298,Rainfall-Related,10,8,4,12
+landslide,rain,medium,74.1213,34.151,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,76.34158851,34.38663064,Rainfall-Related,12,8,4,12
+landslide,rain,medium,74.0253,15.0296,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,93.1658,25.2269,Rainfall-Related,12,8,4,12
+complex,downpour,medium,76.9834,30.709,Rainfall-Related,12,4,4,12
+mudslide,downpour,medium,75.7525,33.3118,Rainfall-Related,12,7,4,12
+landslide,downpour,medium,72.8663,19.0222,Rainfall-Related,12,8,4,12
+mudslide,monsoon,medium,95.0281,26.7225,Other,9,7,4,13
+landslide,unknown,medium,94.1146,24.3481,Other,3,8,4,13
+rock_fall,downpour,small,80.2154,29.5866,Rainfall-Related,12,6,3,12
+landslide,rain,medium,77.0206,30.9209,Rainfall-Related,10,8,4,12
+landslide,mining,small,91.6469,26.1468,Construction and Urban,5,8,3,10
+landslide,downpour,medium,92.2845,25.3612,Rainfall-Related,12,8,4,12
+landslide,mining,medium,92.562,24.6108,Construction and Urban,5,8,4,10
+landslide,continuous_rain,large,90.3852,25.7354,Rainfall-Related,11,8,5,12
+landslide,continuous_rain,large,90.5763,25.8143,Rainfall-Related,11,8,5,12
+landslide,downpour,medium,94.11112157,25.63961883,Rainfall-Related,12,8,4,12
+landslide,unknown,medium,75.2449,33.2355,Other,3,8,4,13
+landslide,continuous_rain,small,92.5121,24.5308,Rainfall-Related,11,8,3,12
+landslide,continuous_rain,medium,75.8103,33.1754,Rainfall-Related,11,8,4,12
+landslide,rain,small,75.1945,32.9918,Rainfall-Related,10,8,3,12
+landslide,rain,medium,88.2798,26.8342,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,79.3541,30.5319,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,77.3,30.56,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.7265,23.7269,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,88.2891,27.2676,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,small,94.0926,25.3908,Rainfall-Related,11,8,3,12
+landslide,rain,medium,91.4663,24.0896,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,72.88274367,19.17377751,Rainfall-Related,11,8,4,12
+landslide,continuous_rain,medium,88.26181745,26.84850975,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,77.7155,31.1581,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.6625,29.5952,Rainfall-Related,12,8,4,12
+landslide,rain,medium,91.802,26.1966,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,83.2884,17.7345,Rainfall-Related,12,8,4,12
+landslide,rain,medium,73.5446,17.2634,Rainfall-Related,10,8,4,12
+landslide,continuous_rain,medium,77.1898,32.2282,Rainfall-Related,11,8,4,12
+landslide,downpour,medium,78.44,30.7362,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,93.1477,25.4749,Rainfall-Related,12,8,4,12
+rock_fall,downpour,medium,77.09003076,30.89221723,Rainfall-Related,12,6,4,12
+landslide,rain,small,91.7747,26.1097,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,94.6654,26.2753,Rainfall-Related,12,8,4,12
+landslide,downpour,small,73.8161,15.8513,Rainfall-Related,12,8,3,12
+landslide,downpour,medium,88.482,27.0771,Rainfall-Related,12,8,4,12
+landslide,continuous_rain,medium,78.4378,30.73,Rainfall-Related,11,8,4,12
+complex,unknown,medium,75.2441,33.2361,Other,3,4,4,13
+landslide,downpour,medium,77.4614,31.348,Rainfall-Related,12,8,4,12
+landslide,rain,medium,75.1923,33.4341,Rainfall-Related,10,8,4,12
+landslide,rain,small,91.6849,26.1001,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,94.9612,28.235,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,76.8696375,9.497393176,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,73.3572,17.0032,Rainfall-Related,12,8,4,12
+landslide,rain,medium,74.8481,12.8733,Rainfall-Related,10,8,4,12
+landslide,downpour,medium,88.4481,26.9722,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,79.3206,30.3299,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,74.9277,33.0,Rainfall-Related,12,8,4,12
+landslide,downpour,medium,92.899,22.533,Rainfall-Related,12,8,4,12
+complex,downpour,very_large,73.6106,26.2208,Rainfall-Related,12,4,6,12
+rock_fall,downpour,medium,79.3439,13.6529,Rainfall-Related,12,6,4,12
+landslide,tropical_cyclone,medium,88.26522126,27.04357147,Natural Disaster-Prone,7,8,4,11
+landslide,continuous_rain,small,78.1045,30.4528,Rainfall-Related,11,8,3,12
+landslide,rain,small,76.6702,31.4881,Rainfall-Related,10,8,3,12
+landslide,downpour,medium,77.0696,10.0838,Rainfall-Related,12,8,4,12
+landslide,rain,medium,91.7986,26.1699,Rainfall-Related,10,8,4,12
+no_landslide,none,none,85.02123928038168,25.287147721687262,Urban Areas,1,1,1,5
+no_landslide,none,none,86.87093095721188,27.579796584008562,Hilly Terrain,1,1,1,7
+no_landslide,none,none,92.64384729496808,14.140613056414757,Plains,1,1,1,3
+no_landslide,none,none,72.81415776619147,30.233717794062827,Forest Areas,1,1,1,6
+no_landslide,none,none,75.71212702348458,30.171398330698004,Forest Areas,1,1,1,6
+no_landslide,none,none,88.25747528352603,12.773376861370883,Desert Regions,1,1,1,2
+no_landslide,none,none,91.94432738962112,24.44726555702971,Urban Areas,1,1,1,5
+no_landslide,none,none,82.15220342842888,24.213048239265284,Stable Region,1,1,1,1
+no_landslide,none,none,90.50864433154794,9.64197625594407,Plains,1,1,1,3
+no_landslide,none,none,89.53527659373195,28.244070293035584,Forest Areas,1,1,1,6
+no_landslide,none,none,76.89438157895526,22.215854425191395,Hilly Terrain,1,1,1,7
+no_landslide,none,none,81.38105013087677,8.539801714532924,Desert Regions,1,1,1,2
+no_landslide,none,none,87.7290977724636,20.889449806406788,Forest Areas,1,1,1,6
+no_landslide,none,none,80.78315712320642,19.30613175796276,Plains,1,1,1,3
+no_landslide,none,none,84.86129161690533,27.92235536169762,Desert Regions,1,1,1,2
+no_landslide,none,none,80.5815679315385,29.48200398412775,Hilly Terrain,1,1,1,7
+no_landslide,none,none,95.6282307671587,19.423030699116325,Desert Regions,1,1,1,2
+no_landslide,none,none,76.55593298060761,21.811653232332898,Plains,1,1,1,3
+no_landslide,none,none,93.8290514366876,20.288310546641732,Urban Areas,1,1,1,5
+no_landslide,none,none,75.16420483828136,15.868145388690106,Forest Areas,1,1,1,6
+no_landslide,none,none,78.99394896300183,8.504637819264673,Forest Areas,1,1,1,6
+no_landslide,none,none,88.89362534776248,20.616813461692672,Desert Regions,1,1,1,2
+no_landslide,none,none,79.45851192546769,15.427652954210153,Plains,1,1,1,3
+no_landslide,none,none,97.34926715668452,15.578776627613026,Forest Areas,1,1,1,6
+no_landslide,none,none,84.62286341913216,9.61653818495348,Desert Regions,1,1,1,2
+no_landslide,none,none,94.85022629284944,27.97475332377033,Hilly Terrain,1,1,1,7
+no_landslide,none,none,91.3064735972213,18.679331515346313,Hilly Terrain,1,1,1,7
+no_landslide,none,none,86.69762643631236,9.733850504790597,Flat Terrain,1,1,1,4
+no_landslide,none,none,94.441451353495,24.621113456627604,Stable Region,1,1,1,1
+no_landslide,none,none,89.77245672278767,23.934741189244534,Plains,1,1,1,3
+no_landslide,none,none,73.37779369917325,19.617164705780038,Forest Areas,1,1,1,6
+no_landslide,none,none,96.93307280271776,17.3374557735491,Desert Regions,1,1,1,2
+no_landslide,none,none,75.12698971606531,25.07064112221653,Plains,1,1,1,3
+no_landslide,none,none,86.84276245086569,34.049548874494874,Plains,1,1,1,3
+no_landslide,none,none,89.98810922239082,16.595404748272294,Stable Region,1,1,1,1
+no_landslide,none,none,81.921368912182,20.64722083213219,Forest Areas,1,1,1,6
+no_landslide,none,none,81.41932291981674,25.013845131976538,Plains,1,1,1,3
+no_landslide,none,none,75.78847973232173,26.216520523646608,Stable Region,1,1,1,1
+no_landslide,none,none,77.74230153994262,34.173498256742306,Desert Regions,1,1,1,2
+no_landslide,none,none,75.25031741199153,32.11368940377075,Stable Region,1,1,1,1
+no_landslide,none,none,97.71897971855599,18.53391745394513,Forest Areas,1,1,1,6
+no_landslide,none,none,92.05377904570932,27.734456366155158,Urban Areas,1,1,1,5
+no_landslide,none,none,95.04049748948512,22.396817543680463,Forest Areas,1,1,1,6
+no_landslide,none,none,84.91146170139338,7.398642806072959,Hilly Terrain,1,1,1,7
+no_landslide,none,none,75.41108464349509,29.03798726195926,Forest Areas,1,1,1,6
+no_landslide,none,none,82.40894234206438,25.23626617809441,Forest Areas,1,1,1,6
+no_landslide,none,none,79.28072983658349,33.60199366716756,Stable Region,1,1,1,1
+no_landslide,none,none,83.33557694003908,29.150163500765977,Plains,1,1,1,3
+no_landslide,none,none,79.15137913263817,25.909548360875498,Stable Region,1,1,1,1
+no_landslide,none,none,91.16571712737988,18.342616971994577,Stable Region,1,1,1,1
+no_landslide,none,none,89.90768916398132,25.17127017204649,Stable Region,1,1,1,1
+no_landslide,none,none,92.2616677914582,33.7031678606036,Flat Terrain,1,1,1,4
+no_landslide,none,none,96.76169021456826,18.90429833552625,Desert Regions,1,1,1,2
+no_landslide,none,none,82.79761902499526,32.78298568114687,Forest Areas,1,1,1,6
+no_landslide,none,none,77.30398535364293,7.6229396694668194,Flat Terrain,1,1,1,4
+no_landslide,none,none,83.98145643649718,29.808253760487858,Plains,1,1,1,3
+no_landslide,none,none,80.28378743580858,24.67210597610068,Hilly Terrain,1,1,1,7
+no_landslide,none,none,82.85849077899954,7.88370193598387,Urban Areas,1,1,1,5
+no_landslide,none,none,91.18120492119291,29.484471099432284,Stable Region,1,1,1,1
+no_landslide,none,none,93.82898371504544,15.25254567252596,Hilly Terrain,1,1,1,7
+no_landslide,none,none,74.44686851653874,11.095020299835012,Plains,1,1,1,3
+no_landslide,none,none,80.83489367941112,14.17787349712653,Stable Region,1,1,1,1
+no_landslide,none,none,72.21348705895846,21.91920180618242,Flat Terrain,1,1,1,4
+no_landslide,none,none,82.31183978513546,9.617443305529424,Stable Region,1,1,1,1
+no_landslide,none,none,81.28742166470643,29.138366243032365,Plains,1,1,1,3
+no_landslide,none,none,89.24333059521769,7.271354588377258,Urban Areas,1,1,1,5
+no_landslide,none,none,81.17101347834227,34.59306808876777,Desert Regions,1,1,1,2
+no_landslide,none,none,76.75028604785778,10.991847394026825,Stable Region,1,1,1,1
+no_landslide,none,none,76.90266428620363,10.574802608773133,Hilly Terrain,1,1,1,7
+no_landslide,none,none,80.0403557576066,14.032580625059753,Hilly Terrain,1,1,1,7
+no_landslide,none,none,96.4721595453574,35.748301192547224,Hilly Terrain,1,1,1,7
+no_landslide,none,none,82.6394015170989,16.02400467052771,Flat Terrain,1,1,1,4
+no_landslide,none,none,80.86789770112404,10.797773095599146,Desert Regions,1,1,1,2
+no_landslide,none,none,74.74103883748894,9.122385111697675,Desert Regions,1,1,1,2
+no_landslide,none,none,92.75081556230182,25.95652283385914,Plains,1,1,1,3
+no_landslide,none,none,92.42279315594087,34.55415772632338,Urban Areas,1,1,1,5
+no_landslide,none,none,93.23499508146224,18.535790315682533,Forest Areas,1,1,1,6
+no_landslide,none,none,71.87610293130712,8.898312132119141,Plains,1,1,1,3
+no_landslide,none,none,73.14153821536563,18.66094789933684,Desert Regions,1,1,1,2
+no_landslide,none,none,77.03026003709066,27.711075853595567,Flat Terrain,1,1,1,4
+no_landslide,none,none,74.59598698234177,32.681144816556305,Plains,1,1,1,3
+no_landslide,none,none,78.43889802456833,20.63036655795578,Stable Region,1,1,1,1
+no_landslide,none,none,78.83835013623707,12.989378437948435,Stable Region,1,1,1,1
+no_landslide,none,none,96.82949003553233,19.01481228409903,Plains,1,1,1,3
+no_landslide,none,none,71.99865749171137,8.273447782923622,Plains,1,1,1,3
+no_landslide,none,none,74.68282594277002,10.118325597746374,Stable Region,1,1,1,1
+no_landslide,none,none,92.07180824224857,30.11483621934343,Stable Region,1,1,1,1
+no_landslide,none,none,76.3000936099492,26.80311202303163,Hilly Terrain,1,1,1,7
+no_landslide,none,none,92.9105464702506,24.440246120133715,Plains,1,1,1,3
+no_landslide,none,none,93.51090072794145,23.94947804488835,Desert Regions,1,1,1,2
+no_landslide,none,none,86.8258241204976,26.670463337833652,Forest Areas,1,1,1,6
+no_landslide,none,none,91.74476218426662,20.581801637749148,Plains,1,1,1,3
+no_landslide,none,none,75.48941527565096,10.5136311079629,Urban Areas,1,1,1,5
+no_landslide,none,none,91.34201188607598,15.915371587302214,Plains,1,1,1,3
+no_landslide,none,none,95.13650680240058,25.328553683146268,Forest Areas,1,1,1,6
+no_landslide,none,none,96.55843892498265,15.05336625422553,Stable Region,1,1,1,1
+no_landslide,none,none,74.258630644195,10.166441432036976,Stable Region,1,1,1,1
+no_landslide,none,none,97.815864859274,17.700728752962274,Urban Areas,1,1,1,5
+no_landslide,none,none,73.03936595103215,8.429136936764266,Plains,1,1,1,3
+no_landslide,none,none,76.17367028701503,29.313183790792905,Urban Areas,1,1,1,5
+no_landslide,none,none,74.79665825567682,14.84188048538066,Plains,1,1,1,3
+no_landslide,none,none,81.44433905864315,23.57101190295601,Forest Areas,1,1,1,6
+no_landslide,none,none,71.90655422717634,19.40396653396187,Flat Terrain,1,1,1,4
+no_landslide,none,none,83.78861594037461,28.383278008739047,Desert Regions,1,1,1,2
+no_landslide,none,none,96.62852384613815,30.34396111569651,Flat Terrain,1,1,1,4
+no_landslide,none,none,84.20169212661244,26.79774760297991,Flat Terrain,1,1,1,4
+no_landslide,none,none,84.9293802838864,32.23636615770784,Plains,1,1,1,3
+no_landslide,none,none,88.25054304641904,8.984681249924364,Hilly Terrain,1,1,1,7
+no_landslide,none,none,85.7692247597284,25.7084687912784,Urban Areas,1,1,1,5
+no_landslide,none,none,93.79945662606158,13.204792676316469,Flat Terrain,1,1,1,4
+no_landslide,none,none,94.10964769434321,17.012248569525386,Urban Areas,1,1,1,5
+no_landslide,none,none,78.61070325754868,14.069643036940263,Desert Regions,1,1,1,2
+no_landslide,none,none,83.68187002647177,11.454343659157317,Desert Regions,1,1,1,2
+no_landslide,none,none,80.31556176858554,35.273142140556914,Stable Region,1,1,1,1
+no_landslide,none,none,74.72691299263462,23.13306024873391,Stable Region,1,1,1,1
+no_landslide,none,none,95.73452909606915,22.93656385717251,Hilly Terrain,1,1,1,7
+no_landslide,none,none,79.06655260341415,22.117854488579432,Urban Areas,1,1,1,5
+no_landslide,none,none,96.75434122680842,8.4721586332946,Flat Terrain,1,1,1,4
+no_landslide,none,none,92.52442358313027,18.83010511538977,Stable Region,1,1,1,1
+no_landslide,none,none,96.71595159516478,16.998008053946982,Flat Terrain,1,1,1,4
+no_landslide,none,none,86.10906547813299,18.530654697599985,Urban Areas,1,1,1,5
+no_landslide,none,none,84.19287161696388,30.98552066687025,Stable Region,1,1,1,1
+no_landslide,none,none,85.98153186013559,19.051506686086768,Forest Areas,1,1,1,6
+no_landslide,none,none,85.51702650958558,27.79643278061166,Forest Areas,1,1,1,6
+no_landslide,none,none,74.24349827286203,8.104219904047566,Stable Region,1,1,1,1
+no_landslide,none,none,86.84075547639846,20.752996333225575,Hilly Terrain,1,1,1,7
+no_landslide,none,none,88.32466167552298,35.10474074675584,Forest Areas,1,1,1,6
+no_landslide,none,none,78.09311554170841,28.041709643529217,Stable Region,1,1,1,1
+no_landslide,none,none,77.67018310857613,9.034737116054888,Stable Region,1,1,1,1
+no_landslide,none,none,76.68804190186941,35.93009980652989,Hilly Terrain,1,1,1,7
+no_landslide,none,none,77.64895227043314,29.980021800443588,Forest Areas,1,1,1,6
+no_landslide,none,none,79.66790871771539,29.793082137787877,Desert Regions,1,1,1,2
+no_landslide,none,none,93.86295844498366,31.90930599039315,Desert Regions,1,1,1,2
+no_landslide,none,none,88.17118877909635,35.05764852736052,Forest Areas,1,1,1,6
+no_landslide,none,none,71.86355601367285,20.19628792613549,Stable Region,1,1,1,1
+no_landslide,none,none,93.15134708961929,25.350214479642027,Stable Region,1,1,1,1
+no_landslide,none,none,84.21622342058987,29.276947883041288,Stable Region,1,1,1,1
+no_landslide,none,none,94.85242278197917,25.588567501823405,Plains,1,1,1,3
+no_landslide,none,none,96.71805223434073,10.327447747994864,Hilly Terrain,1,1,1,7
+no_landslide,none,none,84.77843145981693,30.455121372880946,Plains,1,1,1,3
+no_landslide,none,none,73.21240597403994,10.373868900640652,Desert Regions,1,1,1,2
+no_landslide,none,none,71.73838269754215,25.047560085886573,Stable Region,1,1,1,1
+no_landslide,none,none,97.27613354582233,18.958613195997433,Flat Terrain,1,1,1,4
+no_landslide,none,none,76.58625496239587,29.4410235481184,Forest Areas,1,1,1,6
+no_landslide,none,none,81.5584503999665,19.864297825122343,Forest Areas,1,1,1,6
+no_landslide,none,none,94.34566367238894,26.618134020801165,Hilly Terrain,1,1,1,7
+no_landslide,none,none,77.24598822966713,15.195960977631541,Stable Region,1,1,1,1
+no_landslide,none,none,75.60850941263902,33.52630417489456,Urban Areas,1,1,1,5
+no_landslide,none,none,89.41116689328013,17.82649288522391,Stable Region,1,1,1,1
+no_landslide,none,none,84.29109387835065,17.854970080272608,Flat Terrain,1,1,1,4
+no_landslide,none,none,78.3184333383313,26.586450771388677,Forest Areas,1,1,1,6
+no_landslide,none,none,75.8122282916778,16.12245185695508,Hilly Terrain,1,1,1,7
+no_landslide,none,none,96.46518292342179,19.40522139124662,Flat Terrain,1,1,1,4
+no_landslide,none,none,74.78785063347637,29.896654881984468,Desert Regions,1,1,1,2
+no_landslide,none,none,82.4182897117451,11.503699418116698,Urban Areas,1,1,1,5
+no_landslide,none,none,72.31554227118338,35.86073552498583,Plains,1,1,1,3
+no_landslide,none,none,85.36144636450203,24.781458610862806,Flat Terrain,1,1,1,4
+no_landslide,none,none,85.97740036182827,7.638252528455216,Plains,1,1,1,3
+no_landslide,none,none,72.06566646515036,19.657836813246206,Forest Areas,1,1,1,6
+no_landslide,none,none,73.59465034224668,33.00911419149977,Hilly Terrain,1,1,1,7
+no_landslide,none,none,77.36822989443942,32.20013907148521,Urban Areas,1,1,1,5
+no_landslide,none,none,89.40507062633954,26.750379902812675,Desert Regions,1,1,1,2
+no_landslide,none,none,72.71410678564244,32.65111335884352,Flat Terrain,1,1,1,4
+no_landslide,none,none,86.25161247047635,25.30519304250283,Flat Terrain,1,1,1,4
+no_landslide,none,none,88.18902065435516,28.104669871686042,Urban Areas,1,1,1,5
+no_landslide,none,none,96.2391286909851,18.038965443646045,Flat Terrain,1,1,1,4
+no_landslide,none,none,92.87645728163488,15.635607329074928,Flat Terrain,1,1,1,4
+no_landslide,none,none,87.63195047286807,7.570262147221572,Plains,1,1,1,3
+no_landslide,none,none,95.56407202144315,33.34281653004366,Hilly Terrain,1,1,1,7
+no_landslide,none,none,92.66429038715748,35.31739562717076,Hilly Terrain,1,1,1,7
+no_landslide,none,none,74.75386019124697,32.49747159156284,Urban Areas,1,1,1,5
+no_landslide,none,none,93.60022352476973,21.23369984445697,Urban Areas,1,1,1,5
+no_landslide,none,none,97.42889187450743,21.841886525162025,Stable Region,1,1,1,1
+no_landslide,none,none,76.48973447411075,25.13489038309134,Forest Areas,1,1,1,6
+no_landslide,none,none,71.91574319910069,12.57706873813465,Hilly Terrain,1,1,1,7
+no_landslide,none,none,87.5707933352237,23.329600797314292,Stable Region,1,1,1,1
+no_landslide,none,none,80.40241712717815,27.013457434610267,Stable Region,1,1,1,1
+no_landslide,none,none,97.41962660439182,26.82424001609342,Hilly Terrain,1,1,1,7
+no_landslide,none,none,95.35362395842037,30.077040825592505,Urban Areas,1,1,1,5
+no_landslide,none,none,84.20237390847431,23.63191847431417,Urban Areas,1,1,1,5
+no_landslide,none,none,90.69562258691056,31.620239996035878,Forest Areas,1,1,1,6
+no_landslide,none,none,77.79133151826458,33.79957190440354,Stable Region,1,1,1,1
+no_landslide,none,none,77.404250523355,9.402298796372046,Desert Regions,1,1,1,2
+no_landslide,none,none,72.12102563315037,10.295425641824922,Desert Regions,1,1,1,2
+no_landslide,none,none,89.22276209129541,19.883857257973823,Flat Terrain,1,1,1,4
+no_landslide,none,none,84.28406950339591,26.753296458439927,Stable Region,1,1,1,1
+no_landslide,none,none,97.33251755271874,11.228330988500103,Hilly Terrain,1,1,1,7
+no_landslide,none,none,89.9114857225484,9.525531321546065,Flat Terrain,1,1,1,4
+no_landslide,none,none,79.0712885088071,15.394786262634755,Flat Terrain,1,1,1,4
+no_landslide,none,none,80.70402269710769,15.980716691250436,Flat Terrain,1,1,1,4
+no_landslide,none,none,71.97349693671683,23.68279086293876,Desert Regions,1,1,1,2
+no_landslide,none,none,96.24947677889838,35.40842894255714,Plains,1,1,1,3
+no_landslide,none,none,92.53490837687794,19.198409404162568,Plains,1,1,1,3
+no_landslide,none,none,76.2092893805589,20.13069080595031,Plains,1,1,1,3
+no_landslide,none,none,79.04532055006604,23.594834578645205,Desert Regions,1,1,1,2
+no_landslide,none,none,81.4783379093078,14.846530115272458,Stable Region,1,1,1,1
+no_landslide,none,none,74.1670496206299,32.08870991891221,Stable Region,1,1,1,1
+no_landslide,none,none,95.47053661274416,31.324477420902674,Forest Areas,1,1,1,6
+no_landslide,none,none,96.7195983270162,16.104217465721455,Forest Areas,1,1,1,6
+no_landslide,none,none,78.03246300041471,20.74199683563181,Urban Areas,1,1,1,5
+no_landslide,none,none,84.97721133453774,34.825465312878976,Stable Region,1,1,1,1
+no_landslide,none,none,96.67188757255416,29.214432954447574,Flat Terrain,1,1,1,4
+no_landslide,none,none,76.01224474743475,27.952483496414764,Stable Region,1,1,1,1
+no_landslide,none,none,92.12575598508762,23.34391965772282,Hilly Terrain,1,1,1,7
+no_landslide,none,none,95.01305005727141,10.137635963141145,Forest Areas,1,1,1,6
+no_landslide,none,none,79.12400078968358,14.936555336473148,Hilly Terrain,1,1,1,7
+no_landslide,none,none,78.02269299113189,34.512718532073336,Plains,1,1,1,3
+no_landslide,none,none,74.84213216337434,28.737448526716285,Forest Areas,1,1,1,6
+no_landslide,none,none,88.77577983381005,28.72837853863841,Flat Terrain,1,1,1,4
+no_landslide,none,none,96.86412919788457,21.915801471650802,Urban Areas,1,1,1,5
+no_landslide,none,none,82.3824450656872,25.510480943224508,Stable Region,1,1,1,1
+no_landslide,none,none,83.9562278965309,14.331297546754014,Stable Region,1,1,1,1
+no_landslide,none,none,86.90530356236897,17.549680800244396,Forest Areas,1,1,1,6
+no_landslide,none,none,74.55518286202648,12.277808696367352,Plains,1,1,1,3
+no_landslide,none,none,83.9999683423842,24.237287419987688,Hilly Terrain,1,1,1,7
+no_landslide,none,none,87.01630259452502,27.041216813428314,Forest Areas,1,1,1,6
+no_landslide,none,none,93.64891407835515,10.582549609162804,Forest Areas,1,1,1,6
+no_landslide,none,none,90.35157928415201,25.757893623103236,Flat Terrain,1,1,1,4
+no_landslide,none,none,77.80351910952429,16.16406512039982,Forest Areas,1,1,1,6
+no_landslide,none,none,73.43510411844179,30.69340621878061,Hilly Terrain,1,1,1,7
+no_landslide,none,none,93.83522547760745,29.439601242171847,Forest Areas,1,1,1,6
+no_landslide,none,none,92.14985208972477,32.52902764706612,Plains,1,1,1,3
+no_landslide,none,none,75.69234878454591,14.526177869247526,Stable Region,1,1,1,1
+no_landslide,none,none,85.22240379805024,15.078709975587211,Stable Region,1,1,1,1
+no_landslide,none,none,96.80292279827907,31.742563759975887,Flat Terrain,1,1,1,4
+no_landslide,none,none,72.18018428331389,34.51880207377251,Hilly Terrain,1,1,1,7
+no_landslide,none,none,86.66582702440331,26.127999008858033,Stable Region,1,1,1,1
+no_landslide,none,none,93.41791582233932,22.155810130536878,Hilly Terrain,1,1,1,7
+no_landslide,none,none,90.87223951470479,8.803451501742154,Plains,1,1,1,3
+no_landslide,none,none,75.44115814815409,32.81252382125237,Desert Regions,1,1,1,2
+no_landslide,none,none,96.87862082537158,17.551283817917664,Forest Areas,1,1,1,6
+no_landslide,none,none,82.33346118091751,11.262872718833709,Stable Region,1,1,1,1
+no_landslide,none,none,81.38868825294227,29.161751464057097,Stable Region,1,1,1,1
+no_landslide,none,none,79.77401899164695,22.111760222330275,Desert Regions,1,1,1,2
+no_landslide,none,none,84.51078528159896,31.075191942468372,Urban Areas,1,1,1,5
+no_landslide,none,none,80.49421637258878,15.577704646838809,Flat Terrain,1,1,1,4
+no_landslide,none,none,93.52197703255753,18.932339516113636,Hilly Terrain,1,1,1,7
+no_landslide,none,none,93.92967774698297,26.922842397067953,Stable Region,1,1,1,1
+no_landslide,none,none,93.03442529247936,18.90056118601523,Forest Areas,1,1,1,6
+no_landslide,none,none,90.69077824952863,27.038025390374123,Hilly Terrain,1,1,1,7
+no_landslide,none,none,90.09762717422345,8.76232632021887,Stable Region,1,1,1,1
+no_landslide,none,none,76.5903126408112,13.028069784716024,Urban Areas,1,1,1,5
+no_landslide,none,none,78.20349213571775,16.51057874115606,Flat Terrain,1,1,1,4
+no_landslide,none,none,94.6537808946824,11.28518429434278,Desert Regions,1,1,1,2
+no_landslide,none,none,97.13651591192769,9.183017115201565,Plains,1,1,1,3
+no_landslide,none,none,82.87712780129633,9.23253622765391,Urban Areas,1,1,1,5
+no_landslide,none,none,77.72992520357245,11.094467565962757,Forest Areas,1,1,1,6
+no_landslide,none,none,96.1775783719971,8.30569539899617,Forest Areas,1,1,1,6
+no_landslide,none,none,82.91627384827638,33.95870508115267,Stable Region,1,1,1,1
+no_landslide,none,none,94.124411699124,22.180393411149065,Hilly Terrain,1,1,1,7
+no_landslide,none,none,95.7223702482746,11.256774847133435,Urban Areas,1,1,1,5
+no_landslide,none,none,95.56690279388695,11.663716948822717,Urban Areas,1,1,1,5
+no_landslide,none,none,76.78904525761006,27.706423654888184,Stable Region,1,1,1,1
+no_landslide,none,none,86.7003434013657,10.49863807174875,Flat Terrain,1,1,1,4
+no_landslide,none,none,81.52477526124089,14.006420131671556,Urban Areas,1,1,1,5
+no_landslide,none,none,87.78224293504296,29.098438395487364,Urban Areas,1,1,1,5
+no_landslide,none,none,91.37156262843178,29.523493300975417,Desert Regions,1,1,1,2
+no_landslide,none,none,86.50748900189853,30.3306069035619,Plains,1,1,1,3
+no_landslide,none,none,90.93895502849395,32.42788880283901,Flat Terrain,1,1,1,4
+no_landslide,none,none,97.57982128589352,35.07159395442393,Urban Areas,1,1,1,5
+no_landslide,none,none,94.14803370542225,24.42176218952904,Plains,1,1,1,3
+no_landslide,none,none,95.847715815524,29.320536875173765,Plains,1,1,1,3
+no_landslide,none,none,95.48514446069252,13.737401886067623,Stable Region,1,1,1,1
+no_landslide,none,none,96.65613930836582,30.103378493256216,Urban Areas,1,1,1,5
+no_landslide,none,none,75.86043068272788,11.779511921282936,Flat Terrain,1,1,1,4
+no_landslide,none,none,86.16809308572218,31.3389637705897,Urban Areas,1,1,1,5
+no_landslide,none,none,83.6722439524078,29.17944948734351,Urban Areas,1,1,1,5
+no_landslide,none,none,97.81287298943164,21.20102335474525,Hilly Terrain,1,1,1,7
+no_landslide,none,none,95.37694400372621,25.179737485999865,Hilly Terrain,1,1,1,7
+no_landslide,none,none,80.86492906728458,10.535629978999122,Urban Areas,1,1,1,5
+no_landslide,none,none,72.32778896897882,9.827964087046787,Flat Terrain,1,1,1,4
+no_landslide,none,none,73.75759490537737,8.723125692305414,Desert Regions,1,1,1,2
+no_landslide,none,none,87.65481056652627,18.28211303679354,Desert Regions,1,1,1,2
+no_landslide,none,none,74.8853859080129,23.19368454616363,Plains,1,1,1,3
+no_landslide,none,none,73.33889333075179,18.245208351754442,Desert Regions,1,1,1,2
+no_landslide,none,none,76.02944146131792,23.284242849467503,Plains,1,1,1,3
+no_landslide,none,none,92.15388610967435,19.507548116924568,Flat Terrain,1,1,1,4
+no_landslide,none,none,95.1891905754669,24.81496702498876,Urban Areas,1,1,1,5
+no_landslide,none,none,85.68790487251675,33.70870687758144,Stable Region,1,1,1,1
+no_landslide,none,none,90.79015659571554,31.682026264461243,Urban Areas,1,1,1,5
+no_landslide,none,none,79.54613320136511,19.76155676573377,Forest Areas,1,1,1,6
+no_landslide,none,none,82.84938431377333,21.5743090514747,Hilly Terrain,1,1,1,7
+no_landslide,none,none,91.00259301311613,8.512313220310388,Plains,1,1,1,3
+no_landslide,none,none,72.66369461858501,23.25568536179908,Forest Areas,1,1,1,6
+no_landslide,none,none,94.15903518515363,12.00698888147491,Plains,1,1,1,3
+no_landslide,none,none,84.06898152676312,8.24305011660526,Hilly Terrain,1,1,1,7
+no_landslide,none,none,84.95321847616985,9.437752601818831,Desert Regions,1,1,1,2
+no_landslide,none,none,96.91402201251717,18.842753704655216,Forest Areas,1,1,1,6
+no_landslide,none,none,74.97983875763873,10.767531409341768,Plains,1,1,1,3
+no_landslide,none,none,85.35282355904373,30.15619972715259,Hilly Terrain,1,1,1,7
+no_landslide,none,none,95.62833043570818,29.11960564717444,Flat Terrain,1,1,1,4
+no_landslide,none,none,97.65185910208686,22.535000081188514,Stable Region,1,1,1,1
+no_landslide,none,none,77.09395171642039,28.77760626098368,Plains,1,1,1,3
+no_landslide,none,none,94.8175854769044,18.288138213694545,Urban Areas,1,1,1,5
+no_landslide,none,none,86.51933814399001,27.06647922070171,Stable Region,1,1,1,1
+no_landslide,none,none,92.24548372914754,22.211680922789814,Desert Regions,1,1,1,2
+no_landslide,none,none,94.00234922488534,13.83741757379094,Urban Areas,1,1,1,5
+no_landslide,none,none,80.89227912528966,30.61771069683015,Stable Region,1,1,1,1
+no_landslide,none,none,97.84738438738566,27.567053251609273,Plains,1,1,1,3
+no_landslide,none,none,74.45878724707292,8.647046056220201,Hilly Terrain,1,1,1,7
+no_landslide,none,none,93.58079448932398,16.5902699968689,Flat Terrain,1,1,1,4
+no_landslide,none,none,83.83773577032673,22.649181390937013,Plains,1,1,1,3
+no_landslide,none,none,72.40848853710352,23.058633378542012,Stable Region,1,1,1,1
+no_landslide,none,none,93.8823424317559,33.89576274560537,Urban Areas,1,1,1,5
+no_landslide,none,none,84.04455922720521,27.49633886313194,Urban Areas,1,1,1,5
+no_landslide,none,none,92.08111062887117,11.933505761653311,Desert Regions,1,1,1,2
+no_landslide,none,none,89.07546936605243,11.314749108549446,Forest Areas,1,1,1,6
+no_landslide,none,none,87.95056275911651,24.54709684113746,Flat Terrain,1,1,1,4
+no_landslide,none,none,82.16026833989329,28.83597925585825,Hilly Terrain,1,1,1,7
+no_landslide,none,none,74.89515312882948,33.46555445817912,Urban Areas,1,1,1,5
+no_landslide,none,none,92.77876380114938,24.621327846394223,Forest Areas,1,1,1,6
+no_landslide,none,none,93.94016440661464,21.838999844559297,Plains,1,1,1,3
+no_landslide,none,none,87.22055704675468,8.153483890451737,Stable Region,1,1,1,1
+no_landslide,none,none,94.29853473647624,7.964720808176903,Forest Areas,1,1,1,6
+no_landslide,none,none,82.0133749354006,7.731394633138764,Plains,1,1,1,3
+no_landslide,none,none,85.23078604354603,26.54133437873702,Urban Areas,1,1,1,5
+no_landslide,none,none,78.10009902333998,27.744342814537497,Stable Region,1,1,1,1
+no_landslide,none,none,96.92461453738937,18.83823373635392,Urban Areas,1,1,1,5
+no_landslide,none,none,85.99701903374438,13.314250584994141,Flat Terrain,1,1,1,4
+no_landslide,none,none,74.57975822724126,7.7050215228778205,Urban Areas,1,1,1,5
+no_landslide,none,none,83.92830922036978,35.80549666520252,Hilly Terrain,1,1,1,7
+no_landslide,none,none,78.7941261499736,13.223425899891247,Hilly Terrain,1,1,1,7
+no_landslide,none,none,73.44090171272579,33.210628830089604,Hilly Terrain,1,1,1,7
+no_landslide,none,none,94.73384060567508,8.293965154971941,Hilly Terrain,1,1,1,7
+no_landslide,none,none,74.19118383902784,28.730004259761344,Forest Areas,1,1,1,6
+no_landslide,none,none,88.14065222087046,8.991790530927808,Flat Terrain,1,1,1,4
+no_landslide,none,none,73.44995014208352,27.239031998585745,Stable Region,1,1,1,1
+no_landslide,none,none,72.3275625605164,32.02204415119322,Desert Regions,1,1,1,2
+no_landslide,none,none,80.19940728648723,26.54911755639821,Plains,1,1,1,3
+no_landslide,none,none,86.4038657865342,29.589463430201164,Urban Areas,1,1,1,5
+no_landslide,none,none,78.47123321331965,10.724637998425749,Forest Areas,1,1,1,6
+no_landslide,none,none,80.49366828647756,25.798633104920498,Forest Areas,1,1,1,6
+no_landslide,none,none,92.2825050460778,21.186893196286675,Forest Areas,1,1,1,6
+no_landslide,none,none,80.92512322666283,8.075702197920373,Hilly Terrain,1,1,1,7
+no_landslide,none,none,88.78979017908156,29.74800712693402,Hilly Terrain,1,1,1,7
+no_landslide,none,none,89.66475717682805,30.20299858297917,Forest Areas,1,1,1,6
+no_landslide,none,none,71.91489622495862,10.711001359480115,Plains,1,1,1,3
+no_landslide,none,none,80.37437755946252,25.688662130526012,Stable Region,1,1,1,1
+no_landslide,none,none,84.52525056923876,8.451214472821025,Flat Terrain,1,1,1,4
+no_landslide,none,none,80.16841852717576,21.986232210034405,Desert Regions,1,1,1,2
+no_landslide,none,none,81.77173561940553,21.225502746168594,Desert Regions,1,1,1,2
+no_landslide,none,none,88.05142542645075,28.56568652885762,Flat Terrain,1,1,1,4
+no_landslide,none,none,87.4852838515686,21.61672113694644,Urban Areas,1,1,1,5
+no_landslide,none,none,74.4497515054566,24.705811938082363,Flat Terrain,1,1,1,4
+no_landslide,none,none,73.04740452318815,16.34021152915613,Urban Areas,1,1,1,5
+no_landslide,none,none,81.49310996895298,24.270272871878646,Stable Region,1,1,1,1
+no_landslide,none,none,85.2213031089849,18.77060952595614,Stable Region,1,1,1,1
+no_landslide,none,none,85.12839914524375,35.285326917344264,Stable Region,1,1,1,1
+no_landslide,none,none,81.32241270134887,24.642676141289954,Forest Areas,1,1,1,6
+no_landslide,none,none,88.92994968213435,11.854051738838017,Plains,1,1,1,3
+no_landslide,none,none,82.26724189869589,10.293401235054993,Forest Areas,1,1,1,6
+no_landslide,none,none,87.38228453691953,33.73665760461238,Stable Region,1,1,1,1
+no_landslide,none,none,76.92089472619541,7.744777847311777,Urban Areas,1,1,1,5
+no_landslide,none,none,80.76192999207409,22.547793331224902,Hilly Terrain,1,1,1,7
+no_landslide,none,none,80.43032819854233,32.78995793551423,Desert Regions,1,1,1,2
+no_landslide,none,none,89.9527496980507,9.459055373842702,Forest Areas,1,1,1,6
+no_landslide,none,none,81.08360593891973,11.273240645761307,Desert Regions,1,1,1,2
+no_landslide,none,none,91.62250320603431,9.410120457295372,Forest Areas,1,1,1,6
+no_landslide,none,none,74.52297793809606,34.37389088699597,Hilly Terrain,1,1,1,7
+no_landslide,none,none,74.36269309375864,15.25824510540777,Stable Region,1,1,1,1
+no_landslide,none,none,96.67573975060648,8.324040574234635,Flat Terrain,1,1,1,4
+no_landslide,none,none,95.92469434422087,29.683979199416093,Stable Region,1,1,1,1
+no_landslide,none,none,74.54989509663267,12.729574073320357,Plains,1,1,1,3
+no_landslide,none,none,74.5347929537403,27.471950231464135,Stable Region,1,1,1,1
+no_landslide,none,none,80.41287953084128,10.976848699161721,Desert Regions,1,1,1,2
+no_landslide,none,none,77.57262567872746,20.687669041093972,Flat Terrain,1,1,1,4
+no_landslide,none,none,84.66020625662112,23.53948932700692,Urban Areas,1,1,1,5
+no_landslide,none,none,96.3062071404562,29.133282967623465,Urban Areas,1,1,1,5
+no_landslide,none,none,78.58472808955523,13.814083773455167,Plains,1,1,1,3
+no_landslide,none,none,79.54206116097899,11.319621289749293,Desert Regions,1,1,1,2
+no_landslide,none,none,79.03571164423705,26.573704796241643,Stable Region,1,1,1,1
+no_landslide,none,none,89.47149555583997,8.462998767094788,Hilly Terrain,1,1,1,7
+no_landslide,none,none,72.75055836710501,33.87686926013425,Stable Region,1,1,1,1
+no_landslide,none,none,95.03496797541246,27.571170202551443,Desert Regions,1,1,1,2
+no_landslide,none,none,90.13250466831033,14.980417018822159,Flat Terrain,1,1,1,4
+no_landslide,none,none,80.07008061079668,15.95240328756621,Hilly Terrain,1,1,1,7
+no_landslide,none,none,92.83728219481607,8.570156158520426,Stable Region,1,1,1,1
+no_landslide,none,none,90.94079001788663,24.85635775160722,Hilly Terrain,1,1,1,7
+no_landslide,none,none,88.66528669949442,15.91210344820251,Flat Terrain,1,1,1,4
+no_landslide,none,none,80.7311892306604,10.535594279837177,Flat Terrain,1,1,1,4
+no_landslide,none,none,81.25934389327743,14.906734189232356,Hilly Terrain,1,1,1,7
+no_landslide,none,none,81.56032625606356,18.49398582076674,Flat Terrain,1,1,1,4
+no_landslide,none,none,96.82783016807201,34.081040993725125,Urban Areas,1,1,1,5
+no_landslide,none,none,88.31599047338311,24.2928566806465,Hilly Terrain,1,1,1,7
+no_landslide,none,none,73.74082298343912,35.16730949902828,Stable Region,1,1,1,1
+no_landslide,none,none,73.87710219563232,24.71900115316631,Forest Areas,1,1,1,6
+no_landslide,none,none,73.4040803639847,18.45587849311996,Plains,1,1,1,3
+no_landslide,none,none,83.04087306939648,10.08796082960072,Hilly Terrain,1,1,1,7
+no_landslide,none,none,72.41251622799504,19.75171917141314,Hilly Terrain,1,1,1,7
+no_landslide,none,none,97.58866880863125,23.953667976924024,Stable Region,1,1,1,1
+no_landslide,none,none,74.673433922181,23.882712885510216,Flat Terrain,1,1,1,4
+no_landslide,none,none,94.73966721941244,9.741954226500788,Urban Areas,1,1,1,5
+no_landslide,none,none,83.62317881294072,29.27573343145483,Desert Regions,1,1,1,2
+no_landslide,none,none,86.18626833598466,28.16516508964358,Forest Areas,1,1,1,6
+no_landslide,none,none,95.31673633624655,21.373188792212865,Flat Terrain,1,1,1,4
+no_landslide,none,none,81.57440144299267,17.77736342651543,Urban Areas,1,1,1,5
+no_landslide,none,none,92.59971637138025,23.21642934095535,Desert Regions,1,1,1,2
+no_landslide,none,none,87.59200513653383,22.859132787430752,Urban Areas,1,1,1,5
+no_landslide,none,none,93.15344593102495,13.868905189535328,Hilly Terrain,1,1,1,7
+no_landslide,none,none,81.56928954190425,15.074026324873572,Plains,1,1,1,3
+no_landslide,none,none,93.7197236866675,18.474523048216128,Plains,1,1,1,3
+no_landslide,none,none,90.87703467461137,21.049926348793083,Hilly Terrain,1,1,1,7
+no_landslide,none,none,72.18678361546576,20.995184419245803,Hilly Terrain,1,1,1,7
+no_landslide,none,none,71.60004605020558,22.107480516723207,Stable Region,1,1,1,1
+no_landslide,none,none,79.38110676442327,25.98366765451425,Plains,1,1,1,3
+no_landslide,none,none,93.7936607319045,7.70628796250484,Stable Region,1,1,1,1
+no_landslide,none,none,85.3380057942346,9.519812893057011,Forest Areas,1,1,1,6
+no_landslide,none,none,73.9488776473942,30.290359267079353,Hilly Terrain,1,1,1,7
+no_landslide,none,none,86.31052798795483,28.919672053751377,Hilly Terrain,1,1,1,7
+no_landslide,none,none,80.03958874525692,21.928715602825015,Desert Regions,1,1,1,2
+no_landslide,none,none,89.78791556154692,19.46138451191639,Desert Regions,1,1,1,2
+no_landslide,none,none,76.02733254179766,19.43852075848991,Hilly Terrain,1,1,1,7
+no_landslide,none,none,79.15576688673461,30.088494589153164,Stable Region,1,1,1,1
+no_landslide,none,none,74.60615583134252,25.83993203555447,Desert Regions,1,1,1,2
+no_landslide,none,none,91.95183311172971,20.80190266140928,Urban Areas,1,1,1,5
+no_landslide,none,none,94.38639808441613,17.552213452364562,Desert Regions,1,1,1,2
+no_landslide,none,none,85.84610950146283,14.19602038083833,Forest Areas,1,1,1,6
+no_landslide,none,none,93.66792164677285,29.704602126951748,Desert Regions,1,1,1,2
+no_landslide,none,none,89.0477231468676,21.22006528553687,Forest Areas,1,1,1,6
+no_landslide,none,none,97.45147361869269,26.24282425677842,Forest Areas,1,1,1,6
+no_landslide,none,none,88.60933719510841,10.208397086390203,Hilly Terrain,1,1,1,7
+no_landslide,none,none,89.32344066941664,24.35294009838139,Plains,1,1,1,3
+no_landslide,none,none,97.49647998419428,14.986526786611321,Hilly Terrain,1,1,1,7
+no_landslide,none,none,95.73875727307473,32.02528748511372,Hilly Terrain,1,1,1,7
+no_landslide,none,none,79.58116025232232,16.8274662231855,Forest Areas,1,1,1,6
+no_landslide,none,none,92.74605827178517,21.580359029000654,Stable Region,1,1,1,1
+no_landslide,none,none,88.84115731440868,26.25136411211563,Stable Region,1,1,1,1
+no_landslide,none,none,87.7377646192297,10.046516617457375,Plains,1,1,1,3
+no_landslide,none,none,95.57519842904036,20.61287862248041,Urban Areas,1,1,1,5
+no_landslide,none,none,95.67750691181874,33.12492900451207,Stable Region,1,1,1,1
+no_landslide,none,none,90.27090453054484,8.187559320234827,Stable Region,1,1,1,1
+no_landslide,none,none,79.40950405376068,21.353343205064544,Stable Region,1,1,1,1
+no_landslide,none,none,89.54183878710936,29.373097692502625,Stable Region,1,1,1,1
+no_landslide,none,none,75.77432494401756,15.321714504236041,Desert Regions,1,1,1,2
+no_landslide,none,none,95.3685502532285,24.525848775135096,Forest Areas,1,1,1,6
+no_landslide,none,none,92.07610737717361,8.400455795568991,Stable Region,1,1,1,1
+no_landslide,none,none,73.63115729859645,24.934680586635295,Plains,1,1,1,3
+no_landslide,none,none,93.33098920875638,25.04993138824591,Stable Region,1,1,1,1
+no_landslide,none,none,83.14135964877397,8.112125111673901,Desert Regions,1,1,1,2
+no_landslide,none,none,86.74749489324974,23.34538125379958,Flat Terrain,1,1,1,4
+no_landslide,none,none,96.5031794369095,31.677408851119075,Forest Areas,1,1,1,6
+no_landslide,none,none,92.28466915998627,18.53481937617642,Stable Region,1,1,1,1
+no_landslide,none,none,92.35670561465398,22.206796708650096,Forest Areas,1,1,1,6
+no_landslide,none,none,96.16775223490451,20.920553725779058,Plains,1,1,1,3
+no_landslide,none,none,92.37026756443649,8.388090927666592,Flat Terrain,1,1,1,4
+no_landslide,none,none,89.57351693041045,19.324447911812406,Urban Areas,1,1,1,5
+no_landslide,none,none,78.81197170032357,16.187721390566963,Stable Region,1,1,1,1
+no_landslide,none,none,78.72551177116051,7.967359470678186,Hilly Terrain,1,1,1,7
+no_landslide,none,none,73.10739601606099,16.101498572999205,Flat Terrain,1,1,1,4
+no_landslide,none,none,80.64959736100829,17.30402193068082,Stable Region,1,1,1,1
+no_landslide,none,none,80.86669224806612,35.083777604000915,Plains,1,1,1,3
+no_landslide,none,none,84.08347487770212,17.66816119659066,Hilly Terrain,1,1,1,7
+no_landslide,none,none,79.78872075323456,22.284829044565058,Desert Regions,1,1,1,2
+no_landslide,none,none,78.65736203916885,28.241724745585756,Hilly Terrain,1,1,1,7
+no_landslide,none,none,72.21632550678714,25.13229877159688,Urban Areas,1,1,1,5
+no_landslide,none,none,83.1791222919153,31.227387806466773,Flat Terrain,1,1,1,4
+no_landslide,none,none,77.10448712509728,11.478918240092327,Stable Region,1,1,1,1
+no_landslide,none,none,72.9860501721192,21.17249549022743,Desert Regions,1,1,1,2
+no_landslide,none,none,77.08373293655536,13.012057669556901,Plains,1,1,1,3
+no_landslide,none,none,83.46224324459754,31.25046421163625,Flat Terrain,1,1,1,4
+no_landslide,none,none,92.66868781007841,23.510554565932736,Forest Areas,1,1,1,6
+no_landslide,none,none,73.9841430174716,11.092739327397233,Flat Terrain,1,1,1,4
+no_landslide,none,none,96.76152531724532,28.93763473022821,Plains,1,1,1,3
+no_landslide,none,none,92.43073211715745,7.70854712955495,Urban Areas,1,1,1,5
+no_landslide,none,none,72.20639197055581,22.54367578699179,Hilly Terrain,1,1,1,7
+no_landslide,none,none,72.22981099841239,15.833216135939136,Forest Areas,1,1,1,6
+no_landslide,none,none,91.8496800642127,34.360951529958875,Forest Areas,1,1,1,6
+no_landslide,none,none,90.00893274999426,18.37781854314392,Forest Areas,1,1,1,6
+no_landslide,none,none,77.10406965318212,26.829682953742235,Urban Areas,1,1,1,5
+no_landslide,none,none,86.22282423308145,12.435438321150237,Urban Areas,1,1,1,5
+no_landslide,none,none,81.9684865651128,26.469030078935894,Urban Areas,1,1,1,5
+no_landslide,none,none,95.11324622399366,8.015735972495865,Stable Region,1,1,1,1
+no_landslide,none,none,94.7705748692851,27.62931686415117,Forest Areas,1,1,1,6
+no_landslide,none,none,75.06256340944071,31.079060318669285,Flat Terrain,1,1,1,4
+no_landslide,none,none,90.42709896046848,32.53258577281755,Desert Regions,1,1,1,2
+no_landslide,none,none,71.91423711740649,13.003044110802048,Desert Regions,1,1,1,2
+no_landslide,none,none,82.39951841240077,10.235266409547068,Desert Regions,1,1,1,2
+no_landslide,none,none,96.32418730964203,13.529439125659948,Desert Regions,1,1,1,2
+no_landslide,none,none,91.88888444608845,26.74942076103256,Forest Areas,1,1,1,6
+no_landslide,none,none,79.7368278620934,34.79663179771787,Stable Region,1,1,1,1
+no_landslide,none,none,91.76217988386959,25.358782668830095,Stable Region,1,1,1,1
+no_landslide,none,none,80.82248621770435,19.156011367297324,Desert Regions,1,1,1,2
+no_landslide,none,none,88.11639371460139,7.922497982710046,Hilly Terrain,1,1,1,7
+no_landslide,none,none,75.74371962933442,29.091722695944263,Forest Areas,1,1,1,6
+no_landslide,none,none,94.38745785908104,34.106863482761746,Flat Terrain,1,1,1,4
+no_landslide,none,none,83.57984842037027,29.342242947570526,Flat Terrain,1,1,1,4
+no_landslide,none,none,91.90079487058593,13.81229590985998,Stable Region,1,1,1,1
+no_landslide,none,none,96.8834152393208,15.71679081916407,Flat Terrain,1,1,1,4
+no_landslide,none,none,73.45828488687322,17.277287908261567,Hilly Terrain,1,1,1,7
+no_landslide,none,none,89.03718522799154,24.62877499535341,Stable Region,1,1,1,1
+no_landslide,none,none,87.01069986729081,32.48279081159017,Flat Terrain,1,1,1,4
+no_landslide,none,none,72.40788951987011,9.818441755735032,Hilly Terrain,1,1,1,7
+no_landslide,none,none,90.66564437925445,34.58918344378495,Hilly Terrain,1,1,1,7
+no_landslide,none,none,95.17145313816852,15.687651486677371,Flat Terrain,1,1,1,4
+no_landslide,none,none,84.17044081800884,21.97528603935001,Desert Regions,1,1,1,2
+no_landslide,none,none,76.13190973598138,29.45489435770091,Forest Areas,1,1,1,6
+no_landslide,none,none,89.69478317741721,13.650818191309781,Plains,1,1,1,3
+no_landslide,none,none,83.96093063831994,14.938330581525944,Plains,1,1,1,3
+no_landslide,none,none,86.00556406522313,27.54779882409315,Plains,1,1,1,3
+no_landslide,none,none,88.69176595052846,22.846142592056513,Urban Areas,1,1,1,5
+no_landslide,none,none,72.44679423794315,16.404911808182817,Stable Region,1,1,1,1
+no_landslide,none,none,87.84857610936623,13.738494129348933,Hilly Terrain,1,1,1,7
+no_landslide,none,none,95.61346379756661,8.980014333286062,Hilly Terrain,1,1,1,7
+no_landslide,none,none,85.58806434367723,25.040929927353936,Plains,1,1,1,3
+no_landslide,none,none,91.11189300829137,34.02410730157078,Desert Regions,1,1,1,2
+no_landslide,none,none,83.60604127668807,7.950914941903981,Desert Regions,1,1,1,2
+no_landslide,none,none,95.30082482792655,15.807398115516444,Flat Terrain,1,1,1,4
+no_landslide,none,none,92.68144726778799,34.94434872131292,Desert Regions,1,1,1,2
+no_landslide,none,none,81.8834992993503,12.314157855349585,Stable Region,1,1,1,1
+no_landslide,none,none,89.71657276307023,27.478334137310902,Desert Regions,1,1,1,2
+no_landslide,none,none,90.24810247130814,31.970420045168467,Plains,1,1,1,3
+no_landslide,none,none,76.61260564803375,26.191204652130985,Hilly Terrain,1,1,1,7
+no_landslide,none,none,84.81406445141549,32.506843059265584,Flat Terrain,1,1,1,4
+no_landslide,none,none,89.93421772221188,28.75966074614425,Forest Areas,1,1,1,6
+no_landslide,none,none,82.33448834199217,16.802020537297206,Urban Areas,1,1,1,5
+no_landslide,none,none,83.15260181575944,35.779525560457564,Flat Terrain,1,1,1,4
+no_landslide,none,none,97.67675290852173,20.648025424622865,Plains,1,1,1,3
+no_landslide,none,none,95.76150891500825,16.274589896691978,Desert Regions,1,1,1,2
+no_landslide,none,none,92.36804371834423,20.569360856360067,Hilly Terrain,1,1,1,7
+no_landslide,none,none,78.03422571934101,28.25210899331028,Plains,1,1,1,3
+no_landslide,none,none,74.13436997452266,23.31494946518052,Forest Areas,1,1,1,6
+no_landslide,none,none,82.51767519102233,8.236991862967411,Urban Areas,1,1,1,5
+no_landslide,none,none,85.1426494020324,33.24929965780756,Desert Regions,1,1,1,2
+no_landslide,none,none,91.10083041653752,9.9416953882146,Forest Areas,1,1,1,6
+no_landslide,none,none,75.1746763463736,15.216771390989168,Stable Region,1,1,1,1
+no_landslide,none,none,93.36466172942716,17.251279987374044,Urban Areas,1,1,1,5
+no_landslide,none,none,90.10744365581058,8.2054475470357,Hilly Terrain,1,1,1,7
+no_landslide,none,none,80.62158035477059,19.876102524037904,Hilly Terrain,1,1,1,7
+no_landslide,none,none,76.24602017248367,18.222130063512378,Urban Areas,1,1,1,5
+no_landslide,none,none,85.18271327493298,14.155929449916401,Forest Areas,1,1,1,6
+no_landslide,none,none,93.61744465171098,9.042383390370706,Forest Areas,1,1,1,6
+no_landslide,none,none,80.22966546342914,21.297558205285952,Plains,1,1,1,3
+no_landslide,none,none,85.94700728170821,9.460898669742605,Stable Region,1,1,1,1
+no_landslide,none,none,90.2596758437692,34.82870794102644,Hilly Terrain,1,1,1,7
+no_landslide,none,none,88.2655857613049,20.093970313198753,Desert Regions,1,1,1,2
+no_landslide,none,none,76.32163894013702,35.6193702729696,Forest Areas,1,1,1,6
+no_landslide,none,none,84.09148337985988,22.21883550533974,Flat Terrain,1,1,1,4
+no_landslide,none,none,79.2895670274686,10.839351783460078,Plains,1,1,1,3
+no_landslide,none,none,92.23914470445195,29.975600519347942,Desert Regions,1,1,1,2
+no_landslide,none,none,83.91464481118528,21.767519225100664,Forest Areas,1,1,1,6
+no_landslide,none,none,74.73228081369497,25.676937215955,Flat Terrain,1,1,1,4
+no_landslide,none,none,86.61072166398048,18.578063456348062,Urban Areas,1,1,1,5
+no_landslide,none,none,93.58290146282688,27.67460309332141,Plains,1,1,1,3
+no_landslide,none,none,87.1444804436098,13.170992150887873,Urban Areas,1,1,1,5
+no_landslide,none,none,93.06985292661294,8.728390998403183,Stable Region,1,1,1,1
+no_landslide,none,none,81.78062574199164,15.343973914298227,Urban Areas,1,1,1,5
+no_landslide,none,none,82.8181432794024,32.66887079298179,Forest Areas,1,1,1,6
+no_landslide,none,none,79.1282495449342,21.771589284755706,Hilly Terrain,1,1,1,7
+no_landslide,none,none,89.1021805322599,20.32390378680862,Stable Region,1,1,1,1
+no_landslide,none,none,89.00783914273023,27.35715808562113,Desert Regions,1,1,1,2
+no_landslide,none,none,93.4398202265728,12.347182846622346,Desert Regions,1,1,1,2
+no_landslide,none,none,72.62258826011687,30.823603391787948,Stable Region,1,1,1,1
+no_landslide,none,none,97.87860826137633,25.004100067127517,Desert Regions,1,1,1,2
+no_landslide,none,none,84.61765058170232,31.32641374228546,Urban Areas,1,1,1,5
+no_landslide,none,none,86.06302957172286,8.943505244049142,Forest Areas,1,1,1,6
+no_landslide,none,none,83.41606178260832,33.20714743000483,Urban Areas,1,1,1,5
+no_landslide,none,none,74.57871800977662,15.631233863837606,Hilly Terrain,1,1,1,7
+no_landslide,none,none,82.75900774266239,18.67003871048643,Plains,1,1,1,3
+no_landslide,none,none,81.68787718640698,26.24221513741667,Urban Areas,1,1,1,5
+no_landslide,none,none,88.64126043798824,10.318585710850847,Plains,1,1,1,3
+no_landslide,none,none,81.48249012906626,17.215749785947658,Plains,1,1,1,3
+no_landslide,none,none,84.3965070464418,13.907258976366169,Urban Areas,1,1,1,5
+no_landslide,none,none,89.60124356139272,31.446669001230056,Plains,1,1,1,3
+no_landslide,none,none,79.00366701522353,22.116230769061413,Stable Region,1,1,1,1
+no_landslide,none,none,93.13057737767605,16.928483814438678,Hilly Terrain,1,1,1,7
+no_landslide,none,none,87.13258687086069,16.192207898438394,Urban Areas,1,1,1,5
+no_landslide,none,none,81.01360504359783,28.558140459256066,Urban Areas,1,1,1,5
+no_landslide,none,none,95.56959902766873,26.36934430613126,Desert Regions,1,1,1,2
+no_landslide,none,none,80.66777843227477,22.99789707699879,Stable Region,1,1,1,1
+no_landslide,none,none,86.50470583205221,33.13476735258035,Flat Terrain,1,1,1,4
+no_landslide,none,none,94.99772673437775,23.290992885242687,Hilly Terrain,1,1,1,7
+no_landslide,none,none,97.41262252348136,7.6324427388211085,Stable Region,1,1,1,1
+no_landslide,none,none,86.21383447705956,15.763347127382989,Forest Areas,1,1,1,6
+no_landslide,none,none,73.51672266253223,15.975605440915215,Desert Regions,1,1,1,2
+no_landslide,none,none,84.47636555148797,27.190578783784808,Desert Regions,1,1,1,2
+no_landslide,none,none,76.07890389428051,30.08093214971646,Forest Areas,1,1,1,6
+no_landslide,none,none,91.59402752328398,33.00900746767295,Forest Areas,1,1,1,6
+no_landslide,none,none,97.59610516300674,12.392254584723698,Hilly Terrain,1,1,1,7
+no_landslide,none,none,88.96923212991814,8.632382790343794,Hilly Terrain,1,1,1,7
+no_landslide,none,none,75.95916973395451,25.66554501961057,Flat Terrain,1,1,1,4
+no_landslide,none,none,78.49165651749762,11.273745656730059,Plains,1,1,1,3
+no_landslide,none,none,74.67029352463581,35.083297332177615,Plains,1,1,1,3
+no_landslide,none,none,95.36688204494698,31.79095889259208,Stable Region,1,1,1,1
+no_landslide,none,none,81.10021219926439,28.118990754652295,Urban Areas,1,1,1,5
+no_landslide,none,none,92.41574891575243,33.90218402386389,Flat Terrain,1,1,1,4
+no_landslide,none,none,96.45468218097777,8.71503193026595,Urban Areas,1,1,1,5
+no_landslide,none,none,88.56866133721734,7.515885194103032,Stable Region,1,1,1,1
+no_landslide,none,none,85.05905090554967,14.645137575319737,Forest Areas,1,1,1,6
+no_landslide,none,none,91.68032587929521,9.719806320816947,Plains,1,1,1,3
+no_landslide,none,none,75.27438949449898,34.08112534584517,Urban Areas,1,1,1,5
+no_landslide,none,none,75.63268626605725,26.6707422568783,Flat Terrain,1,1,1,4
+no_landslide,none,none,94.9984323942573,13.137489216411787,Urban Areas,1,1,1,5
+no_landslide,none,none,95.03429953757419,8.718772794181834,Hilly Terrain,1,1,1,7
+no_landslide,none,none,83.77127504464332,10.760892728248827,Flat Terrain,1,1,1,4
+no_landslide,none,none,76.37873799446773,24.945577842050113,Urban Areas,1,1,1,5
+no_landslide,none,none,79.71843207393434,21.875614425729673,Desert Regions,1,1,1,2
+no_landslide,none,none,72.58293459972323,18.045211003065653,Hilly Terrain,1,1,1,7
+no_landslide,none,none,97.18170281545952,28.103217962343827,Desert Regions,1,1,1,2
+no_landslide,none,none,87.2477020760221,16.485776269671774,Plains,1,1,1,3
+no_landslide,none,none,91.41253722923939,15.783328855736436,Urban Areas,1,1,1,5
